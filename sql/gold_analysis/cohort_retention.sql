@@ -6,6 +6,7 @@ It then tracks what percentage of each cohort returns to buy again in subsequent
 This is a foundational matrix used by businesses to measure customer lifetime value (LTV) and churn.
 
 */
+
 CREATE OR REPLACE VIEW gold.cohort_retention AS
 
 WITH first_purchase AS (
