@@ -1,0 +1,5 @@
+"stage_order","event_type","sessions_count","overall_conversion_pct","step_conversion_pct","step_dropoff_pct"
+1,"page_view",120000,100.00,NULL,NULL
+2,"add_to_cart",81518,67.93,67.93,32.07
+3,"checkout",44909,37.42,55.09,44.91
+4,"purchase",33580,27.98,74.77,25.23

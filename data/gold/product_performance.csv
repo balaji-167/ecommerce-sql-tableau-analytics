@@ -1,0 +1,1196 @@
+"product_id","product_name","product_category","total_orders","total_quantity_sold","total_revenue","total_cost","total_profit","avg_order_product_value"
+1,"SSD MediumBlue 149","Electronics",2,2,1140.56,705.38,435.18,570.28
+2,"Keyboard DeepPink 696","Electronics",2,2,996.26,526.26,470.00,498.13
+3,"Headphones Orchid 188","Electronics",4,6,3291.18,1857.60,1433.58,822.80
+4,"Smartwatch BurlyWood 664","Electronics",14,19,5098.84,2917.64,2181.20,364.20
+5,"Smartwatch Cornsilk 328","Electronics",44,56,3566.64,2388.40,1178.24,81.06
+6,"Headphones WhiteSmoke 326","Electronics",7,7,2512.65,1555.33,957.32,358.95
+7,"Headphones DarkGray 529","Electronics",11,18,6251.40,3375.54,2875.86,568.31
+8,"Mouse Moccasin 673","Electronics",4,4,1352.76,908.08,444.68,338.19
+9,"Mouse Chartreuse 292","Electronics",74,101,8962.74,6017.58,2945.16,121.12
+10,"SSD Tan 677","Electronics",58,80,6843.20,4883.20,1960.00,117.99
+11,"Headphones HotPink 644","Electronics",9,12,4594.08,2981.16,1612.92,510.45
+12,"Smartwatch Blue 564","Electronics",5,10,4730.20,3025.80,1704.40,946.04
+13,"SSD DarkCyan 815","Electronics",21,34,6829.58,5042.54,1787.04,325.22
+14,"Webcam PowderBlue 606","Electronics",74,103,7895.98,4659.72,3236.26,106.70
+15,"SSD PeachPuff 174","Electronics",5,8,3566.24,2091.20,1475.04,713.25
+16,"Keyboard CornflowerBlue 450","Electronics",3,3,965.40,530.49,434.91,321.80
+17,"Mouse LawnGreen 784","Electronics",1,1,561.96,352.07,209.89,561.96
+18,"Keyboard DarkGoldenRod 996","Electronics",2,2,931.62,625.96,305.66,465.81
+19,"SSD Peru 608","Electronics",17,19,4253.53,2573.55,1679.98,250.21
+20,"Speaker Chocolate 376","Electronics",50,67,4635.73,2448.18,2187.55,92.71
+21,"Speaker DarkRed 848","Electronics",6,7,2991.17,1553.93,1437.24,498.53
+22,"Monitor Ivory 941","Electronics",3,3,1196.58,954.78,241.80,398.86
+23,"Speaker Chocolate 784","Electronics",29,34,6535.48,4024.24,2511.24,225.36
+24,"SSD Orchid 272","Electronics",85,125,5357.50,3421.25,1936.25,62.30
+25,"Keyboard BurlyWood 394","Electronics",8,8,2491.28,1408.72,1082.56,311.41
+26,"Mouse Indigo 992","Electronics",2,6,2705.22,1675.56,1029.66,1352.61
+27,"Speaker Brown 662","Electronics",69,91,6909.63,4386.20,2523.43,100.14
+28,"Monitor DarkSlateBlue 984","Electronics",5,8,4268.24,3183.20,1085.04,853.65
+29,"Monitor LightSteelBlue 799","Electronics",4,4,1730.60,1377.44,353.16,432.65
+30,"Smartwatch PeachPuff 280","Electronics",4,8,4607.28,2512.24,2095.04,1151.82
+31,"Mouse DarkTurquoise 596","Electronics",39,45,7299.90,4161.15,3138.75,187.18
+32,"Mouse Yellow 529","Electronics",27,43,7730.11,3874.73,3855.38,286.30
+33,"SSD DarkOrchid 228","Electronics",2,2,755.18,449.78,305.40,377.59
+34,"Headphones Linen 995","Electronics",15,16,4644.64,3536.00,1108.64,309.64
+35,"Smartwatch Gainsboro 593","Electronics",11,11,2825.90,1747.02,1078.88,256.90
+36,"Smartwatch DarkKhaki 313","Electronics",80,96,6286.08,3269.76,3016.32,78.58
+37,"Speaker Gold 153","Electronics",50,63,7718.13,4646.25,3071.88,154.36
+38,"Keyboard Navy 203","Electronics",80,124,3736.12,2037.32,1698.80,46.70
+39,"SSD DarkGray 312","Electronics",5,5,1899.15,989.65,909.50,379.83
+40,"Smartwatch Coral 455","Electronics",49,65,7453.55,4290.65,3162.90,152.11
+41,"SSD Chocolate 599","Electronics",8,10,3002.70,1605.30,1397.40,375.34
+42,"Speaker GreenYellow 247","Electronics",7,10,3038.30,1803.40,1234.90,434.04
+43,"Keyboard SpringGreen 590","Electronics",7,10,4573.10,3302.30,1270.80,653.30
+44,"Mouse White 640","Electronics",8,11,3567.41,2003.32,1564.09,445.93
+45,"SSD Pink 127","Electronics",51,65,7381.40,4893.20,2488.20,144.73
+46,"Monitor Maroon 812","Electronics",5,7,4114.25,3122.70,991.55,822.85
+47,"Monitor SeaGreen 464","Electronics",11,15,4882.35,3771.45,1110.90,443.85
+48,"Webcam SaddleBrown 437","Electronics",7,11,3669.38,2692.25,977.13,524.20
+49,"Webcam MistyRose 876","Electronics",9,13,4934.02,3634.02,1300.00,548.22
+50,"Webcam Lime 857","Electronics",5,6,2936.76,2189.34,747.42,587.35
+51,"Webcam LightBlue 848","Electronics",43,64,9212.80,5968.64,3244.16,214.25
+52,"Headphones Gainsboro 583","Electronics",3,3,1782.21,1313.55,468.66,594.07
+53,"Monitor LemonChiffon 452","Electronics",45,53,7440.14,5070.51,2369.63,165.34
+54,"Speaker Cyan 457","Electronics",5,5,2454.40,1759.65,694.75,490.88
+55,"SSD Lime 581","Electronics",69,93,7059.63,3746.04,3313.59,102.31
+56,"Webcam Violet 724","Electronics",20,26,5785.26,3730.22,2055.04,289.26
+57,"Headphones Snow 918","Electronics",8,9,2729.70,1899.54,830.16,303.30
+58,"Keyboard MediumSpringGreen 497","Electronics",3,3,1517.25,813.21,704.04,505.75
+59,"Webcam RosyBrown 908","Electronics",1,1,302.48,167.44,135.04,302.48
+60,"SSD LightSlateGray 839","Electronics",60,78,6197.10,4857.84,1339.26,103.29
+61,"Smartwatch Cornsilk 186","Electronics",4,5,1470.00,1062.80,407.20,367.50
+62,"Mouse DarkOrchid 254","Electronics",38,49,6218.10,3346.21,2871.89,163.63
+63,"Speaker Thistle 946","Electronics",6,7,3427.97,1864.31,1563.66,571.33
+64,"Speaker PeachPuff 661","Electronics",3,3,1213.92,734.58,479.34,404.64
+65,"Mouse FireBrick 843","Electronics",78,110,4642.00,3434.20,1207.80,58.76
+66,"Keyboard MediumSpringGreen 544","Electronics",7,13,4291.95,3348.15,943.80,613.14
+67,"Webcam DeepPink 357","Electronics",6,7,3506.37,1975.19,1531.18,584.40
+68,"Webcam SlateGray 700","Electronics",25,41,8076.59,4621.11,3455.48,323.06
+69,"SSD PeachPuff 234","Electronics",39,45,8002.80,5007.60,2995.20,205.20
+70,"Headphones BlueViolet 569","Electronics",4,4,2194.84,1330.36,864.48,548.71
+71,"Smartwatch Crimson 233","Electronics",1,1,501.47,382.85,118.62,501.47
+72,"Mouse Maroon 550","Electronics",10,13,4269.20,2158.52,2110.68,426.92
+73,"Mouse MediumSpringGreen 253","Electronics",7,10,3768.80,2761.80,1007.00,538.40
+74,"Mouse MediumVioletRed 223","Electronics",44,56,6198.64,4250.40,1948.24,140.88
+75,"Headphones SpringGreen 668","Electronics",20,20,4316.20,2829.20,1487.00,215.81
+76,"Speaker SaddleBrown 673","Electronics",7,7,3339.28,1775.97,1563.31,477.04
+77,"Headphones CornflowerBlue 890","Electronics",30,38,6522.32,3803.04,2719.28,217.41
+78,"Keyboard DarkGoldenRod 878","Electronics",5,5,1597.00,1067.60,529.40,319.40
+79,"Keyboard LightPink 617","Electronics",16,16,4522.40,3092.16,1430.24,282.65
+80,"Webcam Sienna 646","Electronics",3,3,1274.58,810.27,464.31,424.86
+81,"Speaker Coral 635","Electronics",4,5,1597.10,917.20,679.90,399.28
+82,"Monitor Chocolate 307","Electronics",3,5,2779.95,2134.50,645.45,926.65
+83,"Speaker Magenta 552","Electronics",47,54,5841.18,3133.62,2707.56,124.28
+84,"SSD RosyBrown 174","Electronics",68,79,5636.65,3225.57,2411.08,81.69
+85,"Webcam LightSkyBlue 895","Electronics",5,5,2058.00,1513.00,545.00,411.60
+86,"Mouse OliveDrab 474","Electronics",3,3,1696.56,1175.79,520.77,565.52
+87,"Mouse MediumTurquoise 578","Electronics",37,47,8190.69,4432.57,3758.12,221.37
+88,"Webcam Beige 598","Electronics",4,4,1822.44,962.68,859.76,455.61
+89,"Mouse SandyBrown 265","Electronics",5,10,5942.30,4455.10,1487.20,1188.46
+90,"Smartwatch MidnightBlue 531","Electronics",4,6,3579.72,2223.54,1356.18,894.93
+91,"Webcam FloralWhite 474","Electronics",22,23,5365.21,2831.07,2534.14,243.87
+92,"Headphones DarkOrange 820","Electronics",14,23,5120.95,3265.08,1855.87,365.78
+93,"Headphones Snow 402","Electronics",19,24,5977.92,3916.80,2061.12,314.63
+94,"Keyboard Chocolate 334","Electronics",63,86,8111.52,6290.90,1820.62,126.74
+95,"Keyboard IndianRed 897","Electronics",59,85,6622.35,3851.35,2771.00,112.24
+96,"Mouse LightSlateGray 532","Electronics",18,26,4787.90,2579.98,2207.92,265.99
+97,"Monitor DarkSeaGreen 627","Electronics",8,11,2875.29,1900.47,974.82,359.41
+98,"Speaker LightBlue 158","Electronics",5,7,3004.68,1582.98,1421.70,600.94
+99,"Mouse Orchid 117","Electronics",2,2,544.86,284.26,260.60,272.43
+100,"Keyboard OrangeRed 976","Electronics",10,10,4869.30,2557.00,2312.30,486.93
+101,"Webcam SpringGreen 564","Electronics",80,90,6117.30,4642.20,1475.10,76.47
+102,"Headphones Cyan 374","Electronics",17,20,4466.40,2974.20,1492.20,262.73
+103,"Mouse FireBrick 212","Electronics",72,97,5299.11,3777.18,1521.93,73.60
+104,"Mouse RosyBrown 419","Electronics",37,55,9860.40,5465.90,4394.50,266.50
+105,"Monitor PaleGoldenRod 556","Electronics",5,7,2329.04,1308.37,1020.67,465.81
+106,"Mouse LightSeaGreen 356","Electronics",22,28,5157.60,3822.28,1335.32,234.44
+107,"Headphones DarkSlateGray 664","Electronics",76,96,3720.00,2678.40,1041.60,48.95
+108,"Webcam Plum 557","Electronics",6,6,1938.66,1112.22,826.44,323.11
+109,"Keyboard LightSeaGreen 772","Electronics",4,4,1620.96,1126.60,494.36,405.24
+110,"Speaker PapayaWhip 618","Electronics",2,2,682.34,523.10,159.24,341.17
+111,"Monitor MintCream 450","Electronics",10,13,5486.13,4359.94,1126.19,548.61
+112,"Webcam Olive 751","Electronics",6,9,4539.60,3232.26,1307.34,756.60
+113,"Mouse Lavender 155","Electronics",14,19,4952.92,2992.88,1960.04,353.78
+114,"Mouse DeepPink 361","Electronics",62,71,2707.23,1861.62,845.61,43.67
+115,"Smartwatch DarkBlue 961","Electronics",49,64,7875.20,4136.96,3738.24,160.72
+116,"Smartwatch Fuchsia 388","Electronics",4,4,2104.84,1475.84,629.00,526.21
+117,"Webcam DeepPink 289","Electronics",6,11,4673.13,2399.98,2273.15,778.86
+118,"Mouse Lavender 472","Electronics",25,33,6050.55,3031.71,3018.84,242.02
+119,"SSD Lavender 350","Electronics",6,6,3506.40,2328.66,1177.74,584.40
+120,"Headphones Aquamarine 465","Electronics",8,16,9286.88,5505.92,3780.96,1160.86
+121,"Mouse SlateBlue 586","Electronics",97,135,4132.35,2539.35,1593.00,42.60
+122,"Monitor Gainsboro 616","Electronics",6,11,3482.38,1951.18,1531.20,580.40
+123,"Headphones LightGray 247","Electronics",62,86,7033.94,5240.84,1793.10,113.45
+124,"Smartwatch LightSkyBlue 406","Electronics",6,7,2551.36,1577.24,974.12,425.23
+125,"Monitor AntiqueWhite 641","Electronics",4,4,1555.64,817.24,738.40,388.91
+126,"Mouse DarkViolet 710","Electronics",4,4,1619.20,1157.40,461.80,404.80
+127,"Smartwatch PeachPuff 606","Electronics",7,7,3259.62,2334.57,925.05,465.66
+128,"Mouse White 248","Electronics",25,30,5759.40,3948.60,1810.80,230.38
+129,"Headphones NavajoWhite 625","Electronics",4,7,3501.19,2501.59,999.60,875.30
+131,"Headphones DarkSalmon 828","Electronics",5,5,2505.25,1691.60,813.65,501.05
+132,"Webcam Thistle 752","Electronics",58,72,5652.00,2897.28,2754.72,97.45
+133,"SSD CadetBlue 562","Electronics",5,5,2884.60,1768.20,1116.40,576.92
+134,"Headphones SaddleBrown 797","Electronics",4,6,2326.98,1600.68,726.30,581.75
+135,"Webcam OrangeRed 916","Electronics",5,5,1544.50,773.80,770.70,308.90
+136,"Keyboard Orchid 648","Electronics",5,8,3652.08,2377.12,1274.96,730.42
+137,"Keyboard PaleGoldenRod 854","Electronics",5,5,2029.00,1054.70,974.30,405.80
+138,"Speaker OrangeRed 371","Electronics",31,37,6428.75,3358.12,3070.63,207.38
+139,"Webcam DarkKhaki 857","Electronics",7,10,4457.20,2503.00,1954.20,636.74
+140,"Speaker SkyBlue 590","Electronics",3,3,934.65,574.59,360.06,311.55
+141,"Monitor PaleGoldenRod 758","Electronics",3,3,1401.51,960.15,441.36,467.17
+142,"Webcam Chocolate 360","Electronics",78,94,6971.04,3793.84,3177.20,89.37
+143,"Monitor Gold 593","Electronics",6,6,2304.36,1244.40,1059.96,384.06
+144,"Headphones CornflowerBlue 201","Electronics",5,11,3375.90,2672.89,703.01,675.18
+145,"Webcam HoneyDew 628","Electronics",7,9,3736.35,2194.20,1542.15,533.76
+146,"Monitor Purple 221","Electronics",2,2,589.72,377.36,212.36,294.86
+147,"Webcam DodgerBlue 584","Electronics",19,25,5191.25,2729.25,2462.00,273.22
+148,"Headphones DarkOliveGreen 618","Electronics",28,33,6437.31,3366.33,3070.98,229.90
+149,"Speaker MediumSpringGreen 315","Electronics",6,6,3579.36,2205.06,1374.30,596.56
+150,"Keyboard CadetBlue 636","Electronics",3,3,1084.32,588.27,496.05,361.44
+151,"Monitor DarkKhaki 939","Electronics",6,11,6303.66,3402.63,2901.03,1050.61
+153,"Speaker DeepPink 125","Electronics",5,5,2708.45,1749.25,959.20,541.69
+154,"Mouse WhiteSmoke 561","Electronics",96,122,3910.10,2531.50,1378.60,40.73
+155,"Smartwatch DarkGreen 452","Electronics",27,33,6669.63,3616.47,3053.16,247.02
+156,"Smartwatch Moccasin 101","Electronics",26,41,8616.56,6480.05,2136.51,331.41
+157,"SSD Bisque 222","Electronics",3,3,1373.76,1032.69,341.07,457.92
+158,"Webcam Cornsilk 396","Electronics",3,5,2182.10,1681.25,500.85,727.37
+159,"Monitor HoneyDew 990","Electronics",10,15,3632.55,2244.45,1388.10,363.26
+160,"Keyboard OldLace 381","Electronics",16,26,6125.60,3849.30,2276.30,382.85
+161,"Headphones DeepPink 777","Electronics",25,26,4938.96,2545.92,2393.04,197.56
+162,"Monitor LightCoral 372","Electronics",4,4,1567.72,853.88,713.84,391.93
+163,"Smartwatch MediumTurquoise 482","Electronics",4,7,2248.75,1252.44,996.31,562.19
+164,"Smartwatch Moccasin 746","Electronics",3,5,2670.15,1985.50,684.65,890.05
+165,"Smartwatch Sienna 662","Electronics",4,9,4955.85,3876.48,1079.37,1238.96
+166,"Webcam DarkRed 849","Electronics",4,4,1760.64,906.44,854.20,440.16
+167,"Smartwatch DarkOrange 759","Electronics",7,10,2869.90,2083.00,786.90,409.99
+168,"Monitor SlateBlue 663","Electronics",7,8,2454.24,1898.56,555.68,350.61
+169,"Mouse SeaGreen 388","Electronics",43,50,6366.50,3975.50,2391.00,148.06
+170,"Monitor Silver 768","Electronics",29,30,5273.10,3805.20,1467.90,181.83
+171,"Monitor SkyBlue 594","Electronics",9,13,3400.02,1943.50,1456.52,377.78
+172,"Lamp Magenta 758","Home & Kitchen",18,30,5115.90,2741.70,2374.20,284.22
+173,"Coffee Maker DarkBlue 931","Home & Kitchen",94,123,3448.92,2242.29,1206.63,36.69
+174,"Vacuum DarkTurquoise 440","Home & Kitchen",26,36,5115.24,3252.60,1862.64,196.74
+175,"Toaster DarkKhaki 297","Home & Kitchen",33,42,4955.58,2685.48,2270.10,150.17
+176,"Coffee Maker MediumSpringGreen 193","Home & Kitchen",89,117,3717.09,2239.38,1477.71,41.77
+177,"Air Fryer LightGray 683","Home & Kitchen",61,87,5862.93,3386.04,2476.89,96.11
+178,"Coffee Maker Silver 522","Home & Kitchen",19,21,4681.74,3393.81,1287.93,246.41
+179,"Vacuum DodgerBlue 485","Home & Kitchen",40,46,5029.18,3305.56,1723.62,125.73
+180,"Air Fryer Tomato 384","Home & Kitchen",36,56,5105.52,2647.68,2457.84,141.82
+181,"Lamp Beige 615","Home & Kitchen",12,12,2906.88,1563.24,1343.64,242.24
+182,"Lamp GreenYellow 321","Home & Kitchen",33,41,6605.51,5012.66,1592.85,200.17
+183,"Blender Wheat 509","Home & Kitchen",49,59,4427.95,2544.08,1883.87,90.37
+184,"Cookware MistyRose 969","Home & Kitchen",30,37,4329.37,3403.63,925.74,144.31
+185,"Toaster DarkViolet 133","Home & Kitchen",11,18,3950.82,2001.24,1949.58,359.17
+186,"Vacuum YellowGreen 584","Home & Kitchen",20,29,5228.12,4018.82,1209.30,261.41
+187,"Lamp Bisque 945","Home & Kitchen",33,49,6250.44,3262.42,2988.02,189.41
+188,"Lamp Wheat 354","Home & Kitchen",14,17,3660.27,2897.65,762.62,261.45
+189,"Toaster Lime 634","Home & Kitchen",62,93,3363.81,1837.68,1526.13,54.26
+190,"Cookware DarkGoldenRod 817","Home & Kitchen",67,84,3034.92,2268.84,766.08,45.30
+191,"Cookware LightGoldenRodYellow 187","Home & Kitchen",16,26,5542.16,4259.06,1283.10,346.39
+192,"Lamp Tomato 228","Home & Kitchen",28,37,7268.65,3637.47,3631.18,259.59
+193,"Coffee Maker Moccasin 832","Home & Kitchen",33,33,4839.45,2474.34,2365.11,146.65
+194,"Air Fryer FireBrick 640","Home & Kitchen",12,16,3855.68,2652.48,1203.20,321.31
+195,"Cookware MintCream 201","Home & Kitchen",43,56,6438.88,4695.04,1743.84,149.74
+196,"Blender Ivory 296","Home & Kitchen",53,67,5499.36,4306.09,1193.27,103.76
+197,"Vacuum White 101","Home & Kitchen",46,63,4574.43,3371.76,1202.67,99.44
+198,"Blender Yellow 385","Home & Kitchen",31,40,5559.60,4441.60,1118.00,179.34
+199,"Air Fryer SteelBlue 586","Home & Kitchen",23,32,5270.40,4032.64,1237.76,229.15
+200,"Lamp MediumPurple 521","Home & Kitchen",47,55,3648.70,2094.95,1553.75,77.63
+201,"Cookware Ivory 298","Home & Kitchen",29,44,7300.48,3771.24,3529.24,251.74
+202,"Vacuum GoldenRod 183","Home & Kitchen",12,12,2668.32,1852.20,816.12,222.36
+203,"Air Fryer LawnGreen 479","Home & Kitchen",53,66,4268.88,2677.62,1591.26,80.54
+204,"Coffee Maker PaleGoldenRod 835","Home & Kitchen",37,52,6672.12,4728.88,1943.24,180.33
+205,"Vacuum Khaki 106","Home & Kitchen",56,64,6205.44,3840.64,2364.80,110.81
+206,"Toaster Green 169","Home & Kitchen",57,78,6248.58,4708.86,1539.72,109.62
+207,"Coffee Maker Tomato 884","Home & Kitchen",27,27,3482.19,1950.48,1531.71,128.97
+208,"Toaster Snow 371","Home & Kitchen",63,82,4636.28,2965.12,1671.16,73.59
+209,"Toaster MintCream 738","Home & Kitchen",12,12,2681.28,1428.36,1252.92,223.44
+210,"Vacuum Black 596","Home & Kitchen",34,49,7664.58,5893.72,1770.86,225.43
+211,"Vacuum Black 709","Home & Kitchen",12,14,3199.00,1653.68,1545.32,266.58
+212,"Coffee Maker LightSeaGreen 124","Home & Kitchen",11,12,2775.12,1432.80,1342.32,252.28
+213,"Lamp SeaShell 161","Home & Kitchen",69,91,4009.46,2067.52,1941.94,58.11
+214,"Coffee Maker LightGoldenRodYellow 421","Home & Kitchen",42,52,5428.80,4177.16,1251.64,129.26
+215,"Cookware GoldenRod 269","Home & Kitchen",94,125,4646.25,2433.75,2212.50,49.43
+216,"Air Fryer MediumTurquoise 637","Home & Kitchen",65,73,4070.48,2831.67,1238.81,62.62
+217,"Cookware RosyBrown 842","Home & Kitchen",39,50,6111.50,3627.50,2484.00,156.71
+218,"Vacuum MediumVioletRed 553","Home & Kitchen",16,17,3593.63,2858.72,734.91,224.60
+219,"Coffee Maker Moccasin 182","Home & Kitchen",82,100,3615.00,1892.00,1723.00,44.09
+220,"Air Fryer Cyan 674","Home & Kitchen",47,65,7204.60,5515.25,1689.35,150.10
+221,"Toaster Indigo 941","Home & Kitchen",51,62,3706.36,2249.98,1456.38,72.67
+222,"Air Fryer DarkKhaki 150","Home & Kitchen",10,15,3109.20,1957.95,1151.25,310.92
+223,"Cookware Khaki 557","Home & Kitchen",45,62,7665.06,4689.68,2975.38,170.33
+224,"Coffee Maker SeaShell 585","Home & Kitchen",41,52,4554.68,3284.84,1269.84,111.09
+225,"Blender Gray 740","Home & Kitchen",36,48,7756.80,4455.36,3301.44,215.47
+226,"Toaster MediumSlateBlue 575","Home & Kitchen",52,67,7179.05,4398.55,2780.50,138.06
+227,"Blender GreenYellow 299","Home & Kitchen",14,20,4056.00,2103.40,1952.60,289.71
+228,"Cookware SkyBlue 471","Home & Kitchen",95,126,3160.08,2154.60,1005.48,33.26
+229,"Air Fryer AliceBlue 144","Home & Kitchen",39,54,4881.06,3837.24,1043.82,125.16
+230,"Air Fryer Silver 382","Home & Kitchen",16,23,4350.45,3075.33,1275.12,271.90
+231,"Air Fryer MediumTurquoise 924","Home & Kitchen",108,139,1516.49,1102.27,414.22,13.91
+232,"Cookware DarkBlue 945","Home & Kitchen",21,27,6403.32,3327.21,3076.11,304.92
+233,"Coffee Maker DarkOrchid 576","Home & Kitchen",78,98,3502.52,2502.92,999.60,44.90
+234,"Toaster Orange 540","Home & Kitchen",51,74,7604.24,4374.88,3229.36,149.10
+235,"Toaster Green 287","Home & Kitchen",33,39,5008.77,3898.83,1109.94,151.78
+236,"Blender Silver 942","Home & Kitchen",20,21,4255.02,3070.20,1184.82,212.75
+237,"Cookware Fuchsia 435","Home & Kitchen",17,20,3909.40,2666.80,1242.60,229.96
+238,"Toaster PowderBlue 901","Home & Kitchen",44,53,4594.57,2796.28,1798.29,104.42
+239,"Lamp MediumSeaGreen 870","Home & Kitchen",87,107,3098.72,1732.33,1366.39,34.82
+240,"Coffee Maker DarkCyan 134","Home & Kitchen",57,77,5339.95,2773.54,2566.41,93.68
+241,"Vacuum Orchid 536","Home & Kitchen",37,47,6703.14,4006.75,2696.39,181.17
+242,"Blender SandyBrown 186","Home & Kitchen",9,9,2223.72,1288.53,935.19,247.08
+243,"Coffee Maker PaleGoldenRod 826","Home & Kitchen",100,129,4275.06,2777.37,1497.69,42.75
+244,"Vacuum DarkBlue 571","Home & Kitchen",61,75,3867.75,2088.00,1779.75,63.41
+245,"Lamp DimGray 651","Home & Kitchen",21,26,5821.40,3320.98,2500.42,277.21
+246,"Toaster FloralWhite 898","Home & Kitchen",18,20,3914.60,2849.40,1065.20,217.48
+247,"Toaster DarkSalmon 374","Home & Kitchen",47,57,4590.78,2680.14,1910.64,95.64
+248,"Air Fryer Black 549","Home & Kitchen",53,76,5393.72,3118.28,2275.44,101.77
+249,"Coffee Maker DeepPink 388","Home & Kitchen",70,83,4530.14,2585.45,1944.69,64.72
+250,"Lamp SeaGreen 357","Home & Kitchen",82,109,6014.62,3123.94,2890.68,72.47
+251,"Coffee Maker DarkViolet 927","Home & Kitchen",34,41,5402.16,3076.23,2325.93,158.89
+252,"Blender Sienna 204","Home & Kitchen",24,34,5671.20,4521.66,1149.54,236.30
+253,"Blender MediumVioletRed 960","Home & Kitchen",43,51,6320.94,4713.93,1607.01,147.00
+254,"Vacuum DeepSkyBlue 400","Home & Kitchen",15,23,5277.35,2702.50,2574.85,351.82
+255,"Coffee Maker DarkSeaGreen 947","Home & Kitchen",69,96,3706.56,2064.00,1642.56,53.72
+256,"Lamp Beige 624","Home & Kitchen",61,74,4188.40,2188.92,1999.48,68.66
+257,"Toaster Aquamarine 893","Home & Kitchen",63,93,4897.38,3334.98,1562.40,77.74
+258,"Toaster DarkKhaki 752","Home & Kitchen",25,36,6103.44,3063.24,3040.20,244.14
+259,"Lamp Violet 138","Home & Kitchen",21,28,5049.24,3054.24,1995.00,240.44
+260,"Air Fryer DarkSlateGray 361","Home & Kitchen",36,52,4763.20,2444.52,2318.68,132.31
+261,"Blender PowderBlue 308","Home & Kitchen",26,38,5846.68,4066.38,1780.30,224.87
+262,"Toaster GoldenRod 794","Home & Kitchen",91,122,1553.06,928.42,624.64,17.07
+263,"Air Fryer HotPink 308","Home & Kitchen",80,109,5932.87,3521.79,2411.08,73.25
+264,"Blender Black 164","Home & Kitchen",25,28,5624.36,3736.88,1887.48,224.97
+265,"Vacuum LightCoral 663","Home & Kitchen",110,157,5389.81,3334.68,2055.13,48.56
+266,"Coffee Maker HotPink 267","Home & Kitchen",19,31,5065.40,2671.27,2394.13,266.60
+267,"Vacuum LightSteelBlue 390","Home & Kitchen",23,25,4422.50,2755.00,1667.50,192.28
+268,"Cookware SteelBlue 419","Home & Kitchen",49,60,5029.20,3952.80,1076.40,102.64
+269,"Cookware LawnGreen 526","Home & Kitchen",20,27,3940.92,2392.74,1548.18,197.05
+270,"Blender MediumOrchid 472","Home & Kitchen",15,19,4130.98,3300.68,830.30,275.40
+271,"Cookware LightGoldenRodYellow 308","Home & Kitchen",66,98,5618.34,4036.62,1581.72,85.13
+272,"Blender YellowGreen 216","Home & Kitchen",44,54,6166.80,3372.84,2793.96,140.15
+273,"Toaster PeachPuff 473","Home & Kitchen",86,101,3203.72,2157.36,1046.36,37.25
+274,"Vacuum DarkSeaGreen 152","Home & Kitchen",19,25,4888.25,2634.75,2253.50,257.28
+275,"Lamp Chocolate 506","Home & Kitchen",81,97,4287.40,3180.63,1106.77,52.93
+276,"Blender MidnightBlue 854","Home & Kitchen",35,43,6342.07,4935.11,1406.96,181.20
+277,"Lamp Salmon 265","Home & Kitchen",78,115,5888.00,3558.10,2329.90,75.49
+278,"Lamp Tomato 492","Home & Kitchen",88,116,5942.68,3091.40,2851.28,67.53
+279,"Vacuum PeachPuff 924","Home & Kitchen",21,40,7634.00,5631.20,2002.80,363.52
+280,"Coffee Maker SteelBlue 144","Home & Kitchen",51,64,5272.96,3960.96,1312.00,103.39
+281,"Vacuum DarkSeaGreen 751","Home & Kitchen",58,69,5898.81,4024.77,1874.04,101.70
+282,"Vacuum White 804","Home & Kitchen",94,121,3715.91,2652.32,1063.59,39.53
+283,"Toaster DeepPink 977","Home & Kitchen",6,6,1343.22,929.64,413.58,223.87
+284,"Coffee Maker Violet 300","Home & Kitchen",29,34,5407.70,3701.24,1706.46,186.47
+285,"Toaster Teal 142","Home & Kitchen",33,36,4446.36,2977.56,1468.80,134.74
+286,"Vacuum Azure 467","Home & Kitchen",16,24,5646.00,3088.08,2557.92,352.88
+287,"Blender Purple 935","Home & Kitchen",60,83,3807.21,3012.07,795.14,63.45
+288,"Coffee Maker Gainsboro 875","Home & Kitchen",90,115,2283.90,1527.20,756.70,25.38
+289,"Cookware AntiqueWhite 220","Home & Kitchen",89,110,2106.50,1582.90,523.60,23.67
+290,"Vacuum DeepPink 742","Home & Kitchen",32,42,6462.96,4297.86,2165.10,201.97
+291,"Toaster ForestGreen 696","Home & Kitchen",62,78,6512.22,4077.06,2435.16,105.04
+292,"Coffee Maker DarkTurquoise 557","Home & Kitchen",36,46,5160.28,3599.96,1560.32,143.34
+293,"Lamp Sienna 733","Home & Kitchen",45,59,6796.80,3446.19,3350.61,151.04
+294,"Vacuum DarkOrchid 733","Home & Kitchen",27,35,4258.45,2699.90,1558.55,157.72
+295,"Toaster Chocolate 929","Home & Kitchen",25,25,5163.75,3877.75,1286.00,206.55
+296,"Vacuum MediumOrchid 467","Home & Kitchen",49,67,7107.36,3697.06,3410.30,145.05
+297,"Vacuum Tomato 616","Home & Kitchen",51,65,6349.20,4702.75,1646.45,124.49
+298,"Lamp Wheat 233","Home & Kitchen",28,33,5534.10,2834.70,2699.40,197.65
+299,"Blender SkyBlue 837","Home & Kitchen",14,17,3932.27,2336.31,1595.96,280.88
+300,"Lamp DarkMagenta 486","Home & Kitchen",79,100,2919.00,2118.00,801.00,36.95
+301,"Cookware Chartreuse 977","Home & Kitchen",15,18,4287.78,2319.12,1968.66,285.85
+302,"Blender LightBlue 934","Home & Kitchen",8,8,1992.56,1433.92,558.64,249.07
+303,"Blender Gold 603","Home & Kitchen",75,102,5761.98,4577.76,1184.22,76.83
+304,"Air Fryer LightSalmon 269","Home & Kitchen",13,17,4073.03,3155.88,917.15,313.31
+305,"Cookware BlueViolet 167","Home & Kitchen",30,40,7968.40,6208.80,1759.60,265.61
+306,"Toaster DarkGreen 262","Home & Kitchen",36,48,4522.56,3287.04,1235.52,125.63
+307,"Air Fryer Tan 935","Home & Kitchen",21,25,5629.25,3279.00,2350.25,268.06
+308,"Vacuum RoyalBlue 591","Home & Kitchen",62,87,3868.02,2516.91,1351.11,62.39
+309,"Coffee Maker Black 343","Home & Kitchen",27,50,7602.50,5206.00,2396.50,281.57
+310,"Air Fryer Coral 513","Home & Kitchen",29,43,4271.62,2390.80,1880.82,147.30
+311,"Coffee Maker Red 435","Home & Kitchen",28,31,5046.18,2944.38,2101.80,180.22
+312,"Vacuum MediumOrchid 217","Home & Kitchen",60,80,4040.00,2971.20,1068.80,67.33
+313,"Toaster Tan 468","Home & Kitchen",39,48,6593.76,4555.68,2038.08,169.07
+314,"Toaster Thistle 805","Home & Kitchen",38,49,5817.77,3819.06,1998.71,153.10
+315,"Blender Green 977","Home & Kitchen",53,70,4934.30,3259.90,1674.40,93.10
+316,"Vacuum LightSalmon 484","Home & Kitchen",19,21,3929.10,2402.40,1526.70,206.79
+317,"Air Fryer RoyalBlue 882","Home & Kitchen",27,36,5348.52,3252.24,2096.28,198.09
+318,"Blender Teal 861","Home & Kitchen",36,48,5575.20,3083.04,2492.16,154.87
+319,"Blender White 417","Home & Kitchen",59,71,5760.23,3772.23,1988.00,97.63
+320,"Cookware Silver 779","Home & Kitchen",15,20,4836.60,3681.00,1155.60,322.44
+321,"Air Fryer Tan 326","Home & Kitchen",24,29,5391.97,3904.56,1487.41,224.67
+322,"Coffee Maker LightBlue 527","Home & Kitchen",54,67,5348.61,3678.30,1670.31,99.05
+323,"Lamp Turquoise 600","Home & Kitchen",44,51,4966.38,2554.59,2411.79,112.87
+324,"Coffee Maker LightGoldenRodYellow 155","Home & Kitchen",24,39,6123.00,3145.35,2977.65,255.13
+325,"Blender Green 635","Home & Kitchen",26,33,4821.63,2850.21,1971.42,185.45
+326,"Air Fryer RosyBrown 408","Home & Kitchen",35,43,5942.17,3707.89,2234.28,169.78
+327,"Lamp DarkSlateGray 948","Home & Kitchen",88,120,5050.80,3080.40,1970.40,56.75
+328,"Vacuum PapayaWhip 920","Home & Kitchen",79,91,4374.37,2205.84,2168.53,55.37
+329,"Coffee Maker DarkRed 165","Home & Kitchen",10,10,1797.90,1142.10,655.80,179.79
+330,"Cookware OrangeRed 376","Home & Kitchen",67,85,3802.05,2659.65,1142.40,55.91
+331,"Vacuum Red 157","Home & Kitchen",18,25,5119.50,4045.00,1074.50,284.42
+332,"Cookware Maroon 708","Home & Kitchen",17,17,3519.17,2701.98,817.19,207.01
+333,"Cookware Cornsilk 630","Home & Kitchen",33,42,6250.86,4254.18,1996.68,189.42
+334,"Cookware LawnGreen 100","Home & Kitchen",34,47,6029.16,3313.03,2716.13,177.33
+335,"Blender Pink 290","Home & Kitchen",84,109,2699.93,1370.13,1329.80,32.14
+336,"Coffee Maker Cornsilk 207","Home & Kitchen",79,116,5592.36,4325.64,1266.72,69.90
+337,"Blender HotPink 301","Home & Kitchen",27,43,6752.29,4706.78,2045.51,250.08
+338,"Coffee Maker LimeGreen 758","Home & Kitchen",51,62,6767.92,4436.10,2331.82,132.70
+339,"Lamp DarkRed 727","Home & Kitchen",31,37,6120.54,3822.84,2297.70,197.44
+340,"Coffee Maker DeepSkyBlue 740","Home & Kitchen",37,41,5414.46,2810.96,2603.50,146.34
+341,"Blender Moccasin 589","Home & Kitchen",14,16,3977.12,2852.80,1124.32,284.08
+342,"Cookware DarkTurquoise 547","Home & Kitchen",32,42,5847.24,3581.76,2265.48,182.73
+343,"Lipstick LightCoral 771","Beauty",35,46,5055.86,2650.06,2405.80,144.45
+344,"Conditioner DarkSlateGray 367","Beauty",85,115,2894.55,2312.65,581.90,33.66
+345,"Serum SeaGreen 867","Beauty",43,63,4980.78,2674.35,2306.43,115.83
+346,"Lipstick Indigo 153","Beauty",30,46,5217.78,3020.82,2196.96,173.93
+347,"Shampoo DarkGray 802","Beauty",62,86,6718.32,4728.28,1990.04,108.36
+348,"Sunscreen Orchid 322","Beauty",29,30,3503.10,2062.20,1440.90,120.80
+349,"Moisturizer SlateBlue 366","Beauty",40,59,6266.39,3161.81,3104.58,156.66
+350,"Serum DodgerBlue 263","Beauty",37,45,4581.00,2569.05,2011.95,123.81
+351,"Lipstick Ivory 498","Beauty",34,45,4959.90,2765.70,2194.20,145.88
+352,"Shampoo DodgerBlue 972","Beauty",49,63,4670.82,2867.13,1803.69,95.32
+353,"Lipstick Plum 961","Beauty",32,49,5438.51,4320.82,1117.69,169.95
+354,"Sunscreen Thistle 814","Beauty",66,77,4542.23,3415.72,1126.51,67.79
+355,"Moisturizer PaleGreen 842","Beauty",42,59,6113.58,3858.60,2254.98,145.56
+356,"Serum MediumSlateBlue 317","Beauty",58,82,5788.38,3428.42,2359.96,99.80
+357,"Conditioner PeachPuff 275","Beauty",58,79,6051.40,3167.11,2884.29,104.33
+358,"Serum Gray 736","Beauty",111,145,1274.55,680.05,594.50,11.48
+359,"Serum MintCream 129","Beauty",65,84,3751.44,2035.32,1716.12,57.71
+360,"Moisturizer MediumAquaMarine 749","Beauty",102,144,1409.76,997.92,411.84,13.82
+361,"Moisturizer DarkGoldenRod 167","Beauty",47,65,5535.40,3991.00,1544.40,117.77
+362,"Sunscreen Moccasin 939","Beauty",57,79,7315.40,4095.36,3220.04,128.34
+363,"Sunscreen Azure 988","Beauty",40,49,5267.50,2738.12,2529.38,131.69
+364,"Lipstick MediumSlateBlue 310","Beauty",44,58,6588.80,3506.10,3082.70,149.75
+365,"Serum Salmon 968","Beauty",98,119,2127.72,1085.28,1042.44,21.71
+366,"Lipstick Purple 747","Beauty",111,137,2063.22,1496.04,567.18,18.59
+367,"Shampoo Azure 910","Beauty",63,76,4550.12,2456.32,2093.80,72.22
+368,"Lipstick OliveDrab 533","Beauty",89,113,3228.41,1923.26,1305.15,36.27
+369,"Shampoo MediumPurple 389","Beauty",104,147,1089.27,629.16,460.11,10.47
+370,"Moisturizer Tomato 428","Beauty",41,45,3928.95,2398.05,1530.90,95.83
+371,"Sunscreen LightYellow 733","Beauty",48,69,4342.17,3280.26,1061.91,90.46
+372,"Lipstick Thistle 546","Beauty",102,127,1087.12,678.18,408.94,10.66
+373,"Sunscreen Coral 821","Beauty",47,69,6479.10,3913.68,2565.42,137.85
+374,"Moisturizer DarkOliveGreen 982","Beauty",59,69,4613.34,2606.13,2007.21,76.89
+375,"Moisturizer Khaki 546","Beauty",49,54,3837.78,2249.64,1588.14,78.32
+376,"Moisturizer DarkKhaki 868","Beauty",56,70,4564.70,2677.50,1887.20,81.51
+377,"Moisturizer DarkBlue 603","Beauty",104,132,726.00,469.92,256.08,6.79
+378,"Lipstick LightGray 606","Beauty",36,43,4155.09,2307.38,1847.71,115.42
+379,"Sunscreen LightPink 366","Beauty",71,90,4043.70,3031.20,1012.50,56.95
+380,"Sunscreen BlueViolet 319","Beauty",34,54,6131.70,3587.76,2543.94,180.34
+381,"Lipstick Gainsboro 751","Beauty",83,120,3795.60,2086.80,1708.80,45.73
+382,"Moisturizer LightPink 674","Beauty",53,69,4235.22,3376.86,858.36,78.43
+383,"Moisturizer DarkSeaGreen 510","Beauty",53,63,4864.23,2950.92,1913.31,91.78
+384,"Conditioner Peru 532","Beauty",34,51,5485.56,3969.33,1516.23,161.34
+385,"Lipstick LightGoldenRodYellow 369","Beauty",81,100,790.00,444.00,346.00,9.75
+386,"Conditioner PaleGreen 488","Beauty",38,57,6192.48,4027.05,2165.43,162.96
+387,"Lipstick DeepPink 644","Beauty",73,91,2899.26,1850.94,1048.32,38.66
+388,"Sunscreen WhiteSmoke 761","Beauty",41,49,4496.24,3263.89,1232.35,109.66
+389,"Moisturizer Thistle 259","Beauty",55,74,3335.92,1995.04,1340.88,60.65
+390,"Conditioner Snow 273","Beauty",39,52,4219.28,3048.76,1170.52,108.19
+391,"Conditioner MediumOrchid 693","Beauty",61,86,4769.56,3491.60,1277.96,78.19
+392,"Serum DarkCyan 813","Beauty",113,148,2886.00,1842.60,1043.40,25.54
+393,"Serum LightSeaGreen 872","Beauty",48,63,3993.57,2317.14,1676.43,83.20
+394,"Lipstick Chartreuse 840","Beauty",43,57,5702.85,3907.35,1795.50,132.62
+395,"Serum Gainsboro 717","Beauty",33,46,5386.60,3861.70,1524.90,163.23
+396,"Sunscreen Peru 293","Beauty",61,84,3787.56,2162.16,1625.40,62.09
+397,"Shampoo Cornsilk 204","Beauty",25,29,3397.06,2441.22,955.84,135.88
+398,"Serum LightGreen 493","Beauty",30,41,4742.47,2515.76,2226.71,158.08
+399,"Serum Azure 850","Beauty",37,57,6733.98,4972.68,1761.30,182.00
+400,"Shampoo DarkCyan 753","Beauty",56,77,4236.54,2367.75,1868.79,75.65
+401,"Moisturizer LightGoldenRodYellow 575","Beauty",60,77,2871.33,2198.35,672.98,47.86
+402,"Moisturizer DarkBlue 547","Beauty",103,129,832.05,629.52,202.53,8.08
+403,"Lipstick Indigo 403","Beauty",89,111,3394.38,2696.19,698.19,38.14
+404,"Conditioner CornflowerBlue 855","Beauty",122,159,1198.86,691.65,507.21,9.83
+405,"Conditioner LightGray 973","Beauty",92,115,647.45,370.30,277.15,7.04
+406,"Conditioner DarkRed 762","Beauty",44,59,5052.17,3416.69,1635.48,114.82
+407,"Conditioner SaddleBrown 768","Beauty",37,48,4909.92,3438.72,1471.20,132.70
+408,"Lipstick Aqua 795","Beauty",42,61,5216.11,3941.82,1274.29,124.19
+409,"Serum MediumSlateBlue 420","Beauty",54,66,5199.48,3307.92,1891.56,96.29
+410,"Shampoo PapayaWhip 529","Beauty",45,53,4094.25,2167.17,1927.08,89.01
+411,"Serum LightGreen 744","Beauty",46,60,5698.20,4068.00,1630.20,123.87
+412,"Serum DarkSeaGreen 566","Beauty",89,115,3882.40,2434.55,1447.85,43.62
+413,"Moisturizer Brown 791","Beauty",42,50,3824.00,2381.50,1442.50,91.05
+414,"Lipstick Violet 770","Beauty",33,37,4142.89,2298.81,1844.08,125.54
+415,"Shampoo LawnGreen 601","Beauty",48,59,5574.91,3437.34,2137.57,116.14
+416,"Moisturizer DarkOliveGreen 264","Beauty",96,146,1370.94,909.58,461.36,14.28
+417,"Lipstick DodgerBlue 631","Beauty",44,63,5979.33,4677.12,1302.21,135.89
+418,"Shampoo LightGray 654","Beauty",89,118,1962.34,1319.24,643.10,22.05
+419,"Serum BurlyWood 754","Beauty",38,44,3849.56,2516.36,1333.20,101.30
+420,"Shampoo Gainsboro 567","Beauty",66,80,5199.20,3240.00,1959.20,78.78
+421,"Serum Green 626","Beauty",26,29,3447.52,1914.00,1533.52,132.60
+422,"Moisturizer Magenta 752","Beauty",51,68,6041.80,4133.72,1908.08,118.47
+423,"Moisturizer Linen 162","Beauty",82,105,3573.15,2195.55,1377.60,43.58
+424,"Moisturizer Wheat 743","Beauty",95,117,1597.05,1236.69,360.36,16.81
+425,"Lipstick GreenYellow 211","Beauty",48,55,4543.55,3062.40,1481.15,94.66
+426,"Serum LightSteelBlue 639","Beauty",72,98,3910.20,2424.52,1485.68,54.31
+427,"Serum RosyBrown 573","Beauty",37,41,4892.94,3856.87,1036.07,132.24
+428,"Serum SteelBlue 170","Beauty",89,112,2679.04,2086.56,592.48,30.10
+429,"Lipstick Fuchsia 838","Beauty",80,92,2503.32,1734.20,769.12,31.29
+430,"Serum LightPink 782","Beauty",27,34,3355.12,1824.78,1530.34,124.26
+431,"Lipstick MediumTurquoise 523","Beauty",34,47,4724.91,3489.75,1235.16,138.97
+432,"Conditioner Azure 765","Beauty",35,42,5021.52,3655.68,1365.84,143.47
+433,"Serum LightCoral 902","Beauty",42,52,4923.36,3154.84,1768.52,117.22
+434,"Serum Blue 359","Beauty",77,104,3718.00,2278.64,1439.36,48.29
+435,"Conditioner Aquamarine 924","Beauty",47,51,4236.06,2730.03,1506.03,90.13
+436,"Lipstick Azure 770","Beauty",39,51,4940.37,3000.84,1939.53,126.68
+437,"Shampoo Tan 738","Beauty",66,81,3389.04,2187.81,1201.23,51.35
+438,"Lipstick Gold 256","Beauty",97,119,1763.58,1356.60,406.98,18.00
+439,"Shampoo Thistle 947","Beauty",27,31,3201.06,1655.40,1545.66,118.56
+440,"Sunscreen Sienna 243","Beauty",41,64,6986.88,5136.64,1850.24,170.41
+441,"Sunscreen LemonChiffon 115","Beauty",43,52,5231.20,3609.32,1621.88,121.66
+442,"Lipstick RosyBrown 771","Beauty",123,167,1055.44,828.32,227.12,8.51
+443,"Shampoo DarkMagenta 246","Beauty",74,105,3543.75,1879.50,1664.25,47.25
+444,"Serum Plum 903","Beauty",81,106,2793.10,1775.50,1017.60,34.06
+445,"Serum Snow 647","Beauty",60,79,2289.42,1421.21,868.21,38.16
+446,"Serum YellowGreen 900","Beauty",57,66,4955.94,3500.64,1455.30,86.95
+447,"Moisturizer OrangeRed 906","Beauty",43,47,3847.89,2955.83,892.06,89.49
+448,"Lipstick Tan 809","Beauty",20,28,2840.88,1588.72,1252.16,142.04
+449,"Serum Linen 549","Beauty",61,73,4820.92,3483.56,1337.36,79.03
+450,"Lipstick IndianRed 370","Beauty",39,53,5645.03,3762.47,1882.56,144.74
+451,"Conditioner Khaki 604","Beauty",63,97,3097.21,1678.10,1419.11,49.16
+452,"Sunscreen MediumSpringGreen 247","Beauty",93,119,1394.68,892.50,502.18,15.00
+453,"Lipstick Gray 652","Beauty",53,69,4244.19,2756.55,1487.64,80.08
+454,"Sunscreen DarkSlateGray 960","Beauty",37,55,5732.65,2877.60,2855.05,154.94
+455,"Shampoo PaleGreen 781","Beauty",73,104,6117.28,4091.36,2025.92,83.80
+456,"Shampoo MediumTurquoise 528","Beauty",44,64,6506.88,3985.28,2521.60,147.88
+457,"Lipstick CadetBlue 751","Beauty",82,100,1367.00,945.00,422.00,16.67
+458,"Lipstick DarkSeaGreen 798","Beauty",97,124,1026.72,700.60,326.12,10.58
+459,"Lipstick Aquamarine 196","Beauty",28,36,4036.32,2418.48,1617.84,144.15
+460,"Sunscreen Cornsilk 247","Beauty",53,70,4247.60,3088.40,1159.20,80.14
+461,"Moisturizer LightCyan 229","Beauty",69,93,2747.22,1715.85,1031.37,39.81
+462,"Shampoo Plum 449","Beauty",91,109,1728.74,1206.63,522.11,19.00
+463,"Conditioner DodgerBlue 315","Beauty",50,57,5388.21,3589.86,1798.35,107.76
+464,"Shampoo Chartreuse 667","Beauty",71,85,4679.25,2932.50,1746.75,65.90
+465,"Moisturizer DarkBlue 947","Beauty",32,40,4002.80,2353.20,1649.60,125.09
+466,"Conditioner Olive 378","Beauty",61,79,4062.97,2645.71,1417.26,65.53
+467,"Sunscreen Tan 604","Beauty",76,99,4420.35,2479.95,1940.40,58.16
+468,"Moisturizer LightSkyBlue 406","Beauty",66,89,3831.45,2280.18,1551.27,58.05
+469,"Serum LemonChiffon 903","Beauty",40,45,3259.80,2250.90,1008.90,81.50
+470,"Moisturizer LightYellow 515","Beauty",60,72,3662.64,2440.08,1222.56,61.04
+471,"Sunscreen Brown 211","Beauty",53,62,4403.24,2728.00,1675.24,81.54
+472,"Moisturizer Salmon 586","Beauty",89,123,1271.82,949.56,322.26,14.29
+473,"Sunscreen GhostWhite 612","Beauty",40,46,4282.14,2218.12,2064.02,107.05
+474,"Sunscreen DimGray 741","Beauty",57,76,5726.60,3923.12,1803.48,100.47
+475,"Lipstick LightGreen 797","Beauty",49,72,6126.48,4159.44,1967.04,122.53
+476,"Moisturizer RosyBrown 568","Beauty",87,111,3267.84,2287.71,980.13,37.13
+477,"Lipstick AliceBlue 285","Beauty",36,53,4913.63,2606.01,2307.62,136.49
+478,"Moisturizer LightGray 771","Beauty",58,91,4866.68,2579.85,2286.83,83.91
+479,"Moisturizer Moccasin 905","Beauty",75,97,4599.74,3434.77,1164.97,59.74
+480,"Shampoo MediumPurple 409","Beauty",40,52,3621.28,2090.92,1530.36,90.53
+481,"Serum MediumBlue 541","Beauty",74,82,4387.82,2613.34,1774.48,59.29
+482,"Sunscreen LemonChiffon 155","Beauty",46,53,4176.40,3258.44,917.96,90.79
+483,"Conditioner BlanchedAlmond 221","Beauty",49,60,4215.60,2157.60,2058.00,86.03
+484,"Conditioner Magenta 557","Beauty",52,65,4625.40,3587.35,1038.05,88.95
+485,"Moisturizer IndianRed 706","Beauty",108,146,967.98,597.14,370.84,8.88
+486,"Lipstick MintCream 522","Beauty",42,56,6596.24,4239.20,2357.04,157.05
+487,"Sunscreen Gainsboro 317","Beauty",97,134,2241.82,1554.40,687.42,22.88
+488,"Serum AliceBlue 109","Beauty",46,53,4085.77,2566.26,1519.51,88.82
+489,"Lipstick MediumSeaGreen 979","Beauty",41,50,4099.00,3263.00,836.00,99.98
+490,"Moisturizer Olive 583","Beauty",63,87,2618.70,1405.05,1213.65,41.57
+491,"Moisturizer DarkBlue 561","Beauty",70,100,3668.00,2460.00,1208.00,52.40
+492,"Lipstick Sienna 474","Beauty",42,54,4891.32,3799.98,1091.34,116.46
+493,"Lipstick LightSeaGreen 847","Beauty",46,65,5658.90,4281.55,1377.35,123.02
+494,"Moisturizer SteelBlue 610","Beauty",70,88,3406.48,2273.04,1133.44,48.66
+495,"Conditioner Green 153","Beauty",42,55,4510.00,3458.95,1051.05,107.38
+496,"Lipstick LightBlue 766","Beauty",139,179,1553.72,805.50,748.22,11.18
+497,"Lipstick Tan 418","Beauty",48,60,5939.40,3111.60,2827.80,123.74
+498,"Shampoo AntiqueWhite 981","Beauty",47,58,5155.62,2834.46,2321.16,109.69
+499,"Conditioner DarkGoldenRod 688","Beauty",40,62,4651.86,2767.06,1884.80,116.30
+500,"Lipstick LightGray 248","Beauty",68,96,5323.20,3742.08,1581.12,77.15
+501,"Moisturizer DarkCyan 744","Beauty",75,107,5005.46,3471.08,1534.38,66.74
+502,"Conditioner DarkTurquoise 563","Beauty",46,74,4428.90,3248.60,1180.30,96.28
+503,"Shampoo PaleGoldenRod 399","Beauty",45,58,5523.34,3700.98,1822.36,122.74
+504,"Shampoo BlueViolet 820","Beauty",111,147,1759.59,1393.56,366.03,15.71
+505,"Sunscreen OrangeRed 115","Beauty",76,92,3972.56,2708.48,1264.08,52.27
+506,"Serum Beige 538","Beauty",51,69,5114.97,3031.17,2083.80,100.29
+507,"Serum Lime 716","Beauty",71,98,4735.36,3340.82,1394.54,66.70
+508,"Serum LimeGreen 101","Beauty",33,43,4207.98,2461.75,1746.23,127.51
+509,"Shampoo Lavender 700","Beauty",66,88,3102.00,1943.92,1158.08,47.00
+510,"Moisturizer DarkBlue 988","Beauty",70,84,3207.12,1738.80,1468.32,45.82
+511,"Sunscreen Wheat 916","Beauty",71,100,2190.00,1736.00,454.00,30.85
+512,"Sunscreen DeepSkyBlue 455","Beauty",36,44,3684.12,2852.08,832.04,102.34
+513,"Sunscreen Orange 916","Beauty",90,119,1758.82,1170.96,587.86,19.54
+514,"Cycling Helmet MediumOrchid 339","Sports",76,98,6519.94,4727.52,1792.42,85.79
+515,"Tennis Racket Snow 576","Sports",21,28,5185.88,3647.28,1538.60,246.95
+516,"Dumbbell DeepPink 109","Sports",8,10,2783.90,1881.70,902.20,347.99
+517,"Cycling Helmet LightSkyBlue 925","Sports",41,49,6969.76,3668.14,3301.62,169.99
+518,"Tennis Racket DarkViolet 693","Sports",14,26,6070.22,3459.30,2610.92,433.59
+519,"Water Bottle Brown 634","Sports",7,9,2429.10,1859.58,569.52,347.01
+520,"Tennis Racket Thistle 293","Sports",38,48,7063.68,4780.80,2282.88,185.89
+521,"Dumbbell Pink 817","Sports",66,95,6095.20,3378.20,2717.00,92.35
+522,"Tennis Racket Tan 512","Sports",50,71,8090.45,5415.17,2675.28,161.81
+523,"Water Bottle DarkSlateGray 605","Sports",9,9,2324.07,1333.80,990.27,258.23
+524,"Tennis Racket Violet 574","Sports",8,13,3392.74,2074.67,1318.07,424.09
+525,"Yoga Mat Tan 453","Sports",70,97,5199.20,3530.80,1668.40,74.27
+526,"Tennis Racket Azure 134","Sports",34,38,6067.84,3071.54,2996.30,178.47
+527,"Dumbbell Khaki 597","Sports",3,3,891.60,677.46,214.14,297.20
+528,"Water Bottle DarkBlue 897","Sports",23,30,5208.60,3013.20,2195.40,217.03
+529,"Tennis Racket Black 885","Sports",40,56,7413.28,5811.68,1601.60,185.33
+530,"Water Bottle BlueViolet 360","Sports",11,11,2718.10,2144.67,573.43,247.10
+531,"Yoga Mat DarkSlateBlue 487","Sports",43,50,5347.00,4269.00,1078.00,121.52
+532,"Yoga Mat MistyRose 478","Sports",82,107,1716.28,876.33,839.95,20.93
+533,"Cycling Helmet DarkKhaki 165","Sports",39,58,8709.28,6563.86,2145.42,223.31
+534,"Water Bottle OldLace 823","Sports",15,24,4675.92,3631.44,1044.48,311.73
+535,"Yoga Mat RoyalBlue 756","Sports",56,78,6481.80,4338.36,2143.44,115.75
+536,"Yoga Mat BurlyWood 502","Sports",5,6,1723.62,1208.10,515.52,344.72
+537,"Dumbbell Azure 340","Sports",41,49,6807.08,3729.88,3077.20,166.03
+538,"Dumbbell White 460","Sports",65,82,4777.32,3738.38,1038.94,73.50
+539,"Yoga Mat LemonChiffon 957","Sports",10,18,4888.80,3771.00,1117.80,488.88
+540,"Yoga Mat SlateGray 857","Sports",59,81,6748.11,4412.88,2335.23,114.37
+541,"Cycling Helmet LightGray 873","Sports",84,113,2743.64,1490.47,1253.17,32.66
+542,"Yoga Mat AliceBlue 405","Sports",8,8,2258.40,1587.84,670.56,282.30
+543,"Water Bottle SaddleBrown 207","Sports",23,27,4879.17,3548.88,1330.29,212.14
+544,"Cycling Helmet CornflowerBlue 227","Sports",47,62,6359.96,3670.40,2689.56,135.32
+545,"Tennis Racket SteelBlue 344","Sports",29,31,4604.74,2535.18,2069.56,158.78
+546,"Dumbbell WhiteSmoke 579","Sports",9,10,2749.80,2110.90,638.90,305.53
+547,"Dumbbell DarkGoldenRod 952","Sports",13,13,3136.38,1715.87,1420.51,241.26
+548,"Dumbbell Violet 482","Sports",80,129,3961.59,2715.45,1246.14,49.52
+549,"Dumbbell Coral 494","Sports",11,19,4470.13,3519.75,950.38,406.38
+550,"Yoga Mat Sienna 447","Sports",21,33,6318.84,4016.76,2302.08,300.90
+551,"Tennis Racket LightCoral 743","Sports",14,24,5959.92,3833.76,2126.16,425.71
+552,"Tennis Racket Crimson 158","Sports",54,71,3527.99,1998.65,1529.34,65.33
+553,"Dumbbell LightGray 248","Sports",16,18,3895.38,2594.34,1301.04,243.46
+554,"Cycling Helmet LavenderBlush 521","Sports",9,13,3409.25,1977.04,1432.21,378.81
+555,"Dumbbell GreenYellow 959","Sports",76,107,5720.22,3325.56,2394.66,75.27
+556,"Tennis Racket Lavender 602","Sports",40,44,4649.92,2559.04,2090.88,116.25
+557,"Yoga Mat Salmon 216","Sports",51,72,7263.36,5599.44,1663.92,142.42
+558,"Dumbbell Snow 906","Sports",9,15,4406.40,2278.35,2128.05,489.60
+559,"Dumbbell Olive 222","Sports",25,35,6002.50,4505.55,1496.95,240.10
+560,"Tennis Racket Crimson 542","Sports",6,7,1598.94,1265.11,333.83,266.49
+561,"Tennis Racket Silver 199","Sports",7,7,2096.08,1629.74,466.34,299.44
+562,"Cycling Helmet LightSlateGray 158","Sports",48,63,5828.13,4481.19,1346.94,121.42
+563,"Tennis Racket Brown 552","Sports",71,96,4814.40,3331.20,1483.20,67.81
+564,"Water Bottle Gray 101","Sports",50,68,7312.72,3963.72,3349.00,146.25
+565,"Water Bottle Crimson 141","Sports",62,83,7605.29,4623.93,2981.36,122.67
+566,"Cycling Helmet DarkViolet 241","Sports",52,73,5236.29,3515.68,1720.61,100.70
+567,"Dumbbell MediumPurple 279","Sports",23,31,4969.92,2828.44,2141.48,216.08
+568,"Dumbbell LightCyan 723","Sports",27,37,6785.43,5080.10,1705.33,251.31
+569,"Cycling Helmet LimeGreen 240","Sports",10,11,2533.19,1399.86,1133.33,253.32
+570,"Water Bottle DarkSlateBlue 296","Sports",18,27,5497.47,3785.13,1712.34,305.42
+571,"Water Bottle Aquamarine 808","Sports",43,58,5681.10,2857.66,2823.44,132.12
+572,"Water Bottle SkyBlue 156","Sports",24,29,3687.93,2642.48,1045.45,153.66
+573,"Water Bottle Chocolate 962","Sports",17,20,4894.20,2939.20,1955.00,287.89
+574,"Cycling Helmet SlateBlue 881","Sports",76,94,3231.72,2012.54,1219.18,42.52
+575,"Cycling Helmet LightGreen 354","Sports",68,82,3847.44,2692.06,1155.38,56.58
+576,"Dumbbell DarkGreen 137","Sports",27,36,6207.48,4939.20,1268.28,229.91
+577,"Dumbbell IndianRed 978","Sports",20,25,5326.50,3582.00,1744.50,266.33
+578,"Yoga Mat SlateGray 628","Sports",40,44,4928.00,3842.08,1085.92,123.20
+579,"Yoga Mat LightSteelBlue 936","Sports",88,119,5149.13,3678.29,1470.84,58.51
+580,"Tennis Racket Tomato 690","Sports",11,15,3532.50,2686.20,846.30,321.14
+581,"Yoga Mat LightSlateGray 848","Sports",46,57,5308.41,2825.49,2482.92,115.40
+582,"Cycling Helmet SandyBrown 923","Sports",39,48,6641.28,3371.52,3269.76,170.29
+583,"Water Bottle SeaGreen 190","Sports",78,103,4865.72,2788.21,2077.51,62.38
+584,"Dumbbell SeaGreen 419","Sports",23,37,6984.49,3843.93,3140.56,303.67
+585,"Tennis Racket DarkOrchid 119","Sports",25,32,5445.44,4283.52,1161.92,217.82
+586,"Yoga Mat Green 367","Sports",8,11,3063.28,2210.56,852.72,382.91
+587,"Yoga Mat Magenta 575","Sports",13,19,4797.50,3315.31,1482.19,369.04
+588,"Water Bottle DarkBlue 459","Sports",49,74,5742.40,3636.36,2106.04,117.19
+589,"Yoga Mat Sienna 226","Sports",15,17,3695.63,1897.88,1797.75,246.38
+590,"Cycling Helmet Azure 386","Sports",27,32,4868.16,3165.44,1702.72,180.30
+591,"Yoga Mat LightSteelBlue 240","Sports",69,100,4363.00,2712.00,1651.00,63.23
+592,"Water Bottle Salmon 250","Sports",19,32,5785.92,4387.52,1398.40,304.52
+593,"Water Bottle Crimson 945","Sports",28,41,5859.72,3627.27,2232.45,209.28
+594,"Yoga Mat Tan 530","Sports",12,12,3381.24,2085.00,1296.24,281.77
+595,"Water Bottle RoyalBlue 505","Sports",15,20,5064.00,3330.60,1733.40,337.60
+596,"Yoga Mat LightGreen 346","Sports",10,12,2818.32,1695.36,1122.96,281.83
+597,"Tennis Racket Orange 677","Sports",21,30,6507.90,4899.90,1608.00,309.90
+598,"Tennis Racket HoneyDew 154","Sports",8,8,1967.92,1484.40,483.52,245.99
+599,"Tennis Racket HoneyDew 461","Sports",27,34,5408.38,4258.50,1149.88,200.31
+600,"Dumbbell Crimson 111","Sports",13,19,4981.61,3481.75,1499.86,383.20
+601,"Tennis Racket DarkGoldenRod 432","Sports",83,110,4382.40,2437.60,1944.80,52.17
+602,"Cycling Helmet DarkTurquoise 330","Sports",68,92,6129.96,4295.48,1834.48,90.15
+603,"Dumbbell Violet 564","Sports",27,31,4056.35,2511.31,1545.04,150.24
+604,"Yoga Mat LightGray 141","Sports",9,9,2198.79,1682.73,516.06,244.31
+605,"Yoga Mat MistyRose 794","Sports",8,11,2868.36,1968.45,899.91,358.55
+606,"Water Bottle DarkSeaGreen 136","Sports",46,56,4919.04,3259.76,1659.28,106.94
+607,"Water Bottle Teal 113","Sports",80,97,3622.95,1943.88,1679.07,45.29
+608,"Cycling Helmet LightSeaGreen 215","Sports",53,71,5474.10,2801.66,2672.44,103.28
+609,"Tennis Racket DarkOliveGreen 161","Sports",52,60,6569.40,3613.80,2955.60,126.33
+610,"Water Bottle Moccasin 374","Sports",8,9,2592.45,2012.58,579.87,324.06
+611,"Yoga Mat Lavender 251","Sports",33,44,6344.36,4188.36,2156.00,192.25
+612,"Cycling Helmet SpringGreen 400","Sports",85,107,4727.26,2549.81,2177.45,55.61
+613,"Cycling Helmet SlateBlue 853","Sports",26,30,5297.40,3084.30,2213.10,203.75
+614,"Yoga Mat OrangeRed 565","Sports",14,20,4484.00,2628.20,1855.80,320.29
+615,"Water Bottle Bisque 495","Sports",13,17,3585.13,2030.99,1554.14,275.78
+616,"Dumbbell DimGray 661","Sports",25,36,6054.48,3693.60,2360.88,242.18
+617,"Tennis Racket AliceBlue 417","Sports",27,38,7103.72,4551.26,2552.46,263.10
+618,"Yoga Mat SlateGray 624","Sports",57,74,5826.76,3300.40,2526.36,102.22
+619,"Water Bottle RoyalBlue 112","Sports",34,44,5275.16,3564.44,1710.72,150.72
+620,"Tennis Racket PaleGreen 431","Sports",74,103,5705.17,4482.56,1222.61,77.10
+621,"Water Bottle LimeGreen 999","Sports",49,65,6697.60,3890.90,2806.70,136.69
+622,"Dumbbell DarkTurquoise 262","Sports",52,72,6788.88,4967.28,1821.60,130.56
+623,"Water Bottle PapayaWhip 550","Sports",96,120,3301.20,2514.00,787.20,34.03
+624,"Yoga Mat MediumTurquoise 462","Sports",33,50,7948.00,5963.50,1984.50,240.85
+625,"Yoga Mat OldLace 793","Sports",32,39,6244.29,4975.23,1269.06,195.13
+626,"Dumbbell Maroon 243","Sports",42,49,6354.81,4451.16,1903.65,151.31
+627,"Dumbbell DarkOrchid 940","Sports",28,37,6954.52,5250.67,1703.85,248.38
+628,"Water Bottle MediumPurple 877","Sports",80,99,3540.24,2679.93,860.31,44.25
+629,"Cycling Helmet AliceBlue 747","Sports",49,62,5360.52,3694.58,1665.94,109.40
+630,"Dumbbell MediumOrchid 520","Sports",44,60,7716.60,4097.40,3619.20,175.38
+631,"Water Bottle MediumSlateBlue 685","Sports",29,36,6446.16,4186.08,2260.08,222.28
+632,"Dumbbell Orchid 993","Sports",37,48,6241.44,4588.32,1653.12,168.69
+633,"Water Bottle DarkOrchid 563","Sports",24,37,6857.58,4209.49,2648.09,285.73
+634,"Cycling Helmet Gray 461","Sports",47,64,5895.04,3571.20,2323.84,125.43
+635,"Cycling Helmet Aquamarine 763","Sports",25,34,5495.42,3729.46,1765.96,219.82
+636,"Tennis Racket LightSteelBlue 611","Sports",93,120,1196.40,866.40,330.00,12.86
+637,"Cycling Helmet LightCoral 411","Sports",35,55,7571.30,4204.20,3367.10,216.32
+638,"Dumbbell Navy 337","Sports",38,47,6354.87,3896.30,2458.57,167.23
+639,"Yoga Mat Coral 963","Sports",10,11,2727.12,1633.61,1093.51,272.71
+640,"Water Bottle OrangeRed 309","Sports",8,11,2780.14,2189.77,590.37,347.52
+641,"Cycling Helmet Orange 126","Sports",8,8,2146.00,1688.40,457.60,268.25
+642,"Yoga Mat Crimson 407","Sports",51,60,4974.60,3824.40,1150.20,97.54
+643,"Water Bottle MistyRose 547","Sports",15,30,7015.80,4641.30,2374.50,467.72
+644,"Water Bottle Pink 540","Sports",11,11,2740.10,1967.79,772.31,249.10
+645,"Cycling Helmet LightSalmon 792","Sports",34,35,5024.60,2573.55,2451.05,147.78
+646,"Tennis Racket BurlyWood 169","Sports",33,43,6032.47,3034.94,2997.53,182.80
+647,"Water Bottle LightSeaGreen 612","Sports",71,99,7420.05,4621.32,2798.73,104.51
+648,"Cycling Helmet DarkKhaki 257","Sports",13,20,3947.40,3073.20,874.20,303.65
+649,"Dumbbell CadetBlue 550","Sports",4,7,2027.41,1309.77,717.64,506.85
+650,"Water Bottle LightSlateGray 808","Sports",13,16,4328.80,2927.20,1401.60,332.98
+651,"Water Bottle DeepPink 471","Sports",12,16,3615.52,1907.84,1707.68,301.29
+652,"Tennis Racket LightBlue 418","Sports",40,54,6213.24,3246.48,2966.76,155.33
+653,"Water Bottle LightGreen 401","Sports",60,72,4267.44,2973.60,1293.84,71.12
+654,"Tennis Racket PowderBlue 530","Sports",15,18,4456.80,3552.48,904.32,297.12
+655,"Dumbbell Teal 312","Sports",30,40,6440.80,4797.60,1643.20,214.69
+656,"Water Bottle Maroon 161","Sports",7,7,1881.60,1173.48,708.12,268.80
+657,"Water Bottle Gold 746","Sports",27,45,8284.95,5020.20,3264.75,306.85
+658,"Yoga Mat Navy 102","Sports",23,35,7349.65,3698.45,3651.20,319.55
+659,"Tennis Racket Pink 411","Sports",24,31,6680.81,4448.50,2232.31,278.37
+660,"Cycling Helmet Black 784","Sports",10,10,2539.10,1716.10,823.00,253.91
+661,"Yoga Mat PaleGoldenRod 666","Sports",58,71,4644.82,3016.08,1628.74,80.08
+662,"Water Bottle GreenYellow 644","Sports",54,73,6254.64,4341.31,1913.33,115.83
+663,"Water Bottle Cyan 520","Sports",3,3,897.48,603.42,294.06,299.16
+664,"Water Bottle BurlyWood 877","Sports",80,106,4608.88,2520.68,2088.20,57.61
+665,"Water Bottle PaleVioletRed 274","Sports",85,126,4931.64,2614.50,2317.14,58.02
+666,"Water Bottle RoyalBlue 540","Sports",34,42,6350.40,4066.02,2284.38,186.78
+667,"Yoga Mat DarkSlateGray 692","Sports",16,22,4352.26,3069.88,1282.38,256.02
+668,"Tennis Racket LightSlateGray 382","Sports",70,87,4352.61,2487.33,1865.28,62.18
+669,"Dumbbell SlateBlue 979","Sports",109,142,2499.20,1721.04,778.16,22.93
+670,"Water Bottle BurlyWood 738","Sports",89,113,2983.20,1663.36,1319.84,33.52
+671,"Cycling Helmet DarkSalmon 505","Sports",94,124,1700.04,962.24,737.80,17.90
+672,"Water Bottle FloralWhite 155","Sports",14,14,3235.40,1660.40,1575.00,231.10
+673,"Water Bottle SeaShell 263","Sports",49,58,4499.64,2550.84,1948.80,91.83
+674,"Water Bottle PapayaWhip 987","Sports",5,5,1287.90,765.60,522.30,257.58
+675,"Cycling Helmet MediumSpringGreen 607","Sports",46,63,6090.21,4146.03,1944.18,132.40
+676,"Yoga Mat LightSkyBlue 835","Sports",47,57,4499.01,2775.33,1723.68,95.72
+677,"Water Bottle Lime 996","Sports",61,74,5376.10,3186.44,2189.66,88.13
+678,"Cycling Helmet LightCyan 189","Sports",101,121,1760.55,1338.26,422.29,17.43
+679,"Dumbbell LightGoldenRodYellow 107","Sports",76,108,6222.96,3818.88,2404.08,80.82
+680,"Tennis Racket PaleGreen 443","Sports",41,71,8778.44,5344.88,3433.56,214.11
+681,"Water Bottle LawnGreen 766","Sports",10,10,2624.70,1576.80,1047.90,262.47
+682,"Yoga Mat LimeGreen 459","Sports",7,9,2598.12,1628.19,969.93,371.16
+683,"Water Bottle SkyBlue 390","Sports",61,87,6918.24,3855.84,3062.40,113.41
+684,"Tennis Racket OrangeRed 780","Sports",68,89,6876.14,3510.16,3365.98,101.12
+685,"T-shirt DarkOrchid 822","Fashion",45,69,5074.95,2774.49,2300.46,112.78
+686,"Jeans FireBrick 955","Fashion",96,125,3223.75,1872.50,1351.25,33.58
+687,"Socks DodgerBlue 956","Fashion",70,88,2863.52,1812.80,1050.72,40.33
+688,"Socks Crimson 461","Fashion",23,27,4388.85,2404.08,1984.77,190.82
+689,"Jeans HoneyDew 694","Fashion",32,38,5574.98,3417.72,2157.26,174.22
+690,"Jeans SteelBlue 309","Fashion",70,81,5270.67,3388.23,1882.44,75.30
+691,"Jeans SpringGreen 823","Fashion",27,34,5875.54,4127.94,1747.60,217.61
+692,"Sneakers Indigo 476","Fashion",38,55,6733.10,4255.90,2477.20,172.64
+693,"Dress RoyalBlue 317","Fashion",54,77,4256.56,2905.21,1351.35,78.83
+694,"Jeans MediumSeaGreen 625","Fashion",24,30,5265.00,2826.30,2438.70,219.38
+695,"T-shirt RoyalBlue 890","Fashion",46,59,6618.62,3846.21,2772.41,143.88
+696,"Socks Pink 681","Fashion",52,59,4830.92,3368.31,1462.61,92.90
+697,"Jeans DarkSlateGray 188","Fashion",47,61,4127.87,2546.75,1581.12,87.83
+698,"Hoodie GoldenRod 428","Fashion",82,112,4702.88,3552.64,1150.24,57.35
+699,"Jeans LemonChiffon 675","Fashion",32,51,6897.75,3674.55,3223.20,215.55
+700,"Sneakers DarkGoldenRod 297","Fashion",20,22,3576.98,2602.38,974.60,178.85
+701,"T-shirt ForestGreen 395","Fashion",28,39,5693.61,2997.15,2696.46,203.34
+702,"Jeans MediumSpringGreen 464","Fashion",32,46,7582.18,4698.44,2883.74,236.94
+703,"Jacket DarkGoldenRod 743","Fashion",21,27,4593.24,2936.52,1656.72,218.73
+704,"Hoodie MediumAquaMarine 383","Fashion",28,32,5547.84,2993.92,2553.92,198.14
+705,"Jeans LawnGreen 779","Fashion",73,100,1368.00,963.00,405.00,18.00
+706,"Hoodie NavajoWhite 774","Fashion",52,69,5207.43,3248.52,1958.91,100.14
+707,"Hoodie LightGoldenRodYellow 967","Fashion",41,57,8108.82,4658.61,3450.21,197.78
+708,"Jacket Green 286","Fashion",45,56,4234.16,2915.92,1318.24,94.09
+709,"Sneakers Beige 851","Fashion",78,97,2921.64,2261.07,660.57,37.46
+710,"Jeans PaleVioletRed 140","Fashion",20,29,4199.78,2150.93,2048.85,209.99
+711,"Dress OliveDrab 410","Fashion",79,111,4341.21,2428.68,1912.53,54.95
+712,"Jeans PaleVioletRed 418","Fashion",51,68,5514.80,2822.00,2692.80,108.13
+713,"Hoodie Violet 959","Fashion",27,35,4569.60,2531.20,2038.40,169.24
+714,"Jeans HoneyDew 360","Fashion",43,53,6225.91,4451.47,1774.44,144.79
+715,"Jacket OldLace 100","Fashion",29,35,4783.45,3217.20,1566.25,164.95
+716,"T-shirt LightPink 393","Fashion",34,44,7399.92,5423.88,1976.04,217.64
+717,"T-shirt MediumSlateBlue 812","Fashion",29,37,6512.74,4399.67,2113.07,224.58
+718,"T-shirt Chocolate 138","Fashion",24,36,7021.08,4944.96,2076.12,292.55
+719,"Socks SpringGreen 453","Fashion",53,61,4218.76,3092.70,1126.06,79.60
+720,"Hoodie LightSeaGreen 861","Fashion",17,24,4402.08,2752.08,1650.00,258.95
+721,"Jacket MistyRose 326","Fashion",23,30,5989.20,4100.10,1889.10,260.40
+722,"Sneakers DarkSalmon 534","Fashion",26,28,3059.00,1849.68,1209.32,117.65
+723,"Jacket SteelBlue 856","Fashion",20,27,5038.20,3564.54,1473.66,251.91
+724,"Hoodie Wheat 563","Fashion",20,27,4518.72,3110.94,1407.78,225.94
+725,"Dress IndianRed 538","Fashion",84,99,1824.57,1294.92,529.65,21.72
+726,"Hoodie DarkGoldenRod 230","Fashion",30,36,3826.08,2978.28,847.80,127.54
+727,"Jacket LightPink 819","Fashion",21,30,4628.70,2375.10,2253.60,220.41
+728,"Socks LightBlue 659","Fashion",19,23,3742.10,2164.30,1577.80,196.95
+729,"Jeans OliveDrab 656","Fashion",18,26,5047.38,3488.94,1558.44,280.41
+730,"Sneakers PaleGoldenRod 466","Fashion",70,77,4307.38,2230.69,2076.69,61.53
+731,"Sneakers RosyBrown 418","Fashion",61,84,7310.52,4096.68,3213.84,119.84
+732,"Jeans Plum 786","Fashion",66,90,3079.80,2193.30,886.50,46.66
+733,"Jacket Magenta 627","Fashion",59,72,3864.24,2212.56,1651.68,65.50
+734,"Hoodie Beige 459","Fashion",38,46,4298.70,3356.16,942.54,113.12
+735,"Hoodie DarkSalmon 245","Fashion",48,62,4059.76,3107.44,952.32,84.58
+736,"Dress BlanchedAlmond 934","Fashion",34,37,4297.55,2578.90,1718.65,126.40
+737,"T-shirt Peru 273","Fashion",31,48,5436.96,3959.04,1477.92,175.39
+738,"Hoodie Sienna 572","Fashion",35,48,6526.56,4435.68,2090.88,186.47
+739,"Socks SlateGray 217","Fashion",17,24,3722.40,2789.28,933.12,218.96
+740,"Hoodie AliceBlue 311","Fashion",81,107,6799.85,4135.55,2664.30,83.95
+741,"T-shirt Cornsilk 301","Fashion",109,143,2799.94,1635.92,1164.02,25.69
+742,"T-shirt OrangeRed 215","Fashion",29,46,6564.66,4164.84,2399.82,226.37
+743,"Jeans Wheat 471","Fashion",55,63,4428.90,2836.89,1592.01,80.53
+744,"Sneakers SeaGreen 111","Fashion",63,84,3382.68,1764.00,1618.68,52.85
+745,"Jacket RosyBrown 185","Fashion",19,26,5160.74,3742.18,1418.56,271.62
+746,"Hoodie LightBlue 677","Fashion",20,25,3642.25,2892.25,750.00,182.11
+747,"Sneakers DarkMagenta 544","Fashion",87,107,3091.23,1998.76,1092.47,35.53
+748,"Jacket Ivory 108","Fashion",72,94,4177.36,2769.24,1408.12,58.02
+749,"Sneakers DeepSkyBlue 742","Fashion",20,25,4613.75,3199.00,1414.75,230.69
+750,"Dress DeepPink 357","Fashion",22,27,5064.39,3523.77,1540.62,230.20
+751,"Hoodie Turquoise 128","Fashion",55,68,3755.64,2033.88,1721.76,67.07
+752,"T-shirt DarkMagenta 403","Fashion",18,25,3917.25,2945.25,972.00,217.63
+753,"Sneakers Salmon 966","Fashion",75,114,4977.24,3441.66,1535.58,66.36
+754,"Hoodie DarkBlue 950","Fashion",59,71,2864.14,2106.57,757.57,48.54
+755,"Sneakers BlueViolet 288","Fashion",34,39,5870.67,3510.78,2359.89,172.67
+756,"Hoodie AliceBlue 477","Fashion",25,35,5826.10,3472.70,2353.40,233.04
+757,"Jeans DarkSalmon 951","Fashion",35,44,5008.08,3058.88,1949.20,143.09
+758,"Sneakers Lavender 680","Fashion",75,95,5126.20,2626.75,2499.45,68.35
+759,"Socks Blue 822","Fashion",42,60,7717.20,5756.40,1960.80,183.74
+760,"Jacket LimeGreen 606","Fashion",26,32,5817.60,4558.08,1259.52,223.75
+761,"Jacket DarkSalmon 406","Fashion",47,59,6130.69,3354.74,2775.95,130.44
+762,"Dress LightCoral 804","Fashion",43,49,5858.93,3070.34,2788.59,136.25
+763,"Jeans Wheat 511","Fashion",54,66,2601.72,1646.70,955.02,48.18
+764,"T-shirt PowderBlue 590","Fashion",24,31,6075.38,4588.00,1487.38,253.14
+765,"Jeans DarkOliveGreen 132","Fashion",75,94,4691.54,2869.82,1821.72,62.55
+766,"Socks DarkGreen 623","Fashion",30,35,4384.10,3288.25,1095.85,146.14
+767,"Jacket Cornsilk 156","Fashion",58,78,2768.22,1443.78,1324.44,47.73
+768,"Dress Lime 164","Fashion",20,25,3611.75,2771.00,840.75,180.59
+769,"Jacket Violet 280","Fashion",111,142,1375.98,1082.04,293.94,12.40
+770,"Hoodie GoldenRod 553","Fashion",78,109,4314.22,2539.70,1774.52,55.31
+771,"Socks Orange 300","Fashion",39,50,5808.50,3511.00,2297.50,148.94
+772,"Jacket LightGoldenRodYellow 571","Fashion",88,108,2627.64,1569.24,1058.40,29.86
+773,"Jacket Ivory 986","Fashion",21,22,4278.78,3305.94,972.84,203.75
+774,"Jeans AliceBlue 734","Fashion",13,13,2536.04,1999.79,536.25,195.08
+775,"T-shirt Aqua 792","Fashion",29,38,6222.12,3223.16,2998.96,214.56
+776,"Sneakers WhiteSmoke 684","Fashion",34,50,6248.00,3681.00,2567.00,183.76
+777,"Jacket LimeGreen 762","Fashion",24,32,6110.08,3936.32,2173.76,254.59
+778,"Jeans Salmon 748","Fashion",65,75,4910.25,2961.00,1949.25,75.54
+779,"T-shirt LightSeaGreen 857","Fashion",21,23,3929.32,2226.86,1702.46,187.11
+780,"Jacket Maroon 692","Fashion",34,40,5629.60,3062.80,2566.80,165.58
+781,"Sneakers LemonChiffon 468","Fashion",38,43,4925.22,3856.24,1068.98,129.61
+782,"Dress Sienna 367","Fashion",82,90,4871.70,3080.70,1791.00,59.41
+783,"T-shirt Violet 307","Fashion",78,109,5627.67,4449.38,1178.29,72.15
+784,"Dress LavenderBlush 957","Fashion",31,34,5166.98,2926.38,2240.60,166.68
+785,"Sneakers LightBlue 786","Fashion",31,41,5442.34,3027.44,2414.90,175.56
+786,"Sneakers Black 569","Fashion",36,43,6198.45,3521.27,2677.18,172.18
+787,"Jeans PaleVioletRed 853","Fashion",46,55,6155.60,4364.25,1791.35,133.82
+788,"Dress Linen 971","Fashion",27,38,6938.04,4648.92,2289.12,256.96
+789,"Jacket Chartreuse 237","Fashion",32,38,5261.48,3893.86,1367.62,164.42
+790,"Socks Beige 958","Fashion",42,59,6171.40,4024.98,2146.42,146.94
+791,"Socks GoldenRod 838","Fashion",24,33,6270.99,4314.42,1956.57,261.29
+792,"Dress SpringGreen 501","Fashion",103,134,3698.40,2769.78,928.62,35.91
+793,"Dress PeachPuff 676","Fashion",59,70,2861.60,2254.70,606.90,48.50
+794,"Jacket Cyan 894","Fashion",29,31,4860.80,2630.04,2230.76,167.61
+795,"Dress LightCyan 481","Fashion",92,137,2609.85,1490.56,1119.29,28.37
+796,"T-shirt Khaki 318","Fashion",95,134,1461.94,991.60,470.34,15.39
+797,"Jacket Peru 536","Fashion",51,68,4460.12,3176.96,1283.16,87.45
+798,"T-shirt NavajoWhite 676","Fashion",41,61,7762.86,5912.73,1850.13,189.34
+799,"T-shirt Khaki 272","Fashion",21,29,5340.64,4065.51,1275.13,254.32
+800,"Sneakers Snow 881","Fashion",29,36,5440.32,3277.44,2162.88,187.60
+801,"Hoodie BlanchedAlmond 225","Fashion",42,64,8874.24,6634.88,2239.36,211.29
+802,"Jeans MediumSlateBlue 465","Fashion",53,67,5334.54,3847.14,1487.40,98.79
+803,"Hoodie PeachPuff 461","Fashion",35,43,4381.27,3263.70,1117.57,125.18
+804,"T-shirt MistyRose 717","Fashion",60,76,5798.80,3468.64,2330.16,96.65
+805,"T-shirt Orchid 348","Fashion",89,124,1805.44,1396.24,409.20,19.84
+806,"Sneakers Gray 121","Fashion",61,94,7147.76,5061.90,2085.86,117.18
+807,"Socks AntiqueWhite 910","Fashion",17,21,4154.64,2625.63,1529.01,244.39
+808,"T-shirt LightSteelBlue 364","Fashion",49,67,6814.57,3558.37,3256.20,136.29
+809,"Jeans Tan 994","Fashion",66,73,2690.05,2096.56,593.49,40.76
+810,"Hoodie CornflowerBlue 702","Fashion",19,26,3550.56,2666.04,884.52,186.87
+811,"Sneakers GreenYellow 927","Fashion",44,58,6460.04,4566.34,1893.70,146.82
+812,"Sneakers Snow 450","Fashion",16,27,5134.32,2588.49,2545.83,320.90
+813,"Jeans Green 132","Fashion",38,51,5178.54,3341.01,1837.53,136.28
+814,"Socks Magenta 735","Fashion",26,29,4893.17,2556.06,2337.11,188.20
+815,"Socks GoldenRod 963","Fashion",37,54,7116.12,4838.94,2277.18,192.33
+816,"Jacket Lavender 559","Fashion",28,32,6200.64,4389.44,1811.20,221.45
+817,"Jacket SeaGreen 629","Fashion",73,104,5409.04,4258.80,1150.24,74.10
+818,"T-shirt Indigo 418","Fashion",55,64,4947.20,3257.60,1689.60,89.95
+819,"Jeans LightGray 273","Fashion",40,49,5935.37,3045.35,2890.02,148.38
+820,"Socks LightYellow 690","Fashion",60,74,5720.94,3663.00,2057.94,95.35
+821,"Jacket DarkMagenta 106","Fashion",51,73,6020.31,3649.27,2371.04,115.78
+822,"Sneakers Snow 121","Fashion",37,52,6198.40,3720.08,2478.32,167.52
+823,"Jeans GhostWhite 146","Fashion",55,74,7119.54,5666.92,1452.62,129.45
+824,"Hoodie Ivory 379","Fashion",83,110,3960.00,2777.50,1182.50,47.71
+825,"Jacket SlateBlue 368","Fashion",62,70,4233.60,2751.70,1481.90,68.28
+826,"Sneakers PapayaWhip 242","Fashion",39,48,5627.52,3705.60,1921.92,144.30
+827,"Hoodie Chartreuse 889","Fashion",100,135,1964.25,1312.20,652.05,19.45
+828,"T-shirt DarkViolet 748","Fashion",15,23,4036.50,2955.96,1080.54,269.10
+829,"Dress OrangeRed 388","Fashion",32,46,5973.10,3636.76,2336.34,186.66
+830,"Socks CadetBlue 244","Fashion",19,24,3856.80,2938.32,918.48,202.99
+831,"Hoodie HotPink 449","Fashion",91,116,2532.28,1997.52,534.76,27.83
+832,"Hoodie Bisque 351","Fashion",53,74,5744.62,4343.06,1401.56,108.39
+833,"Sneakers DarkTurquoise 442","Fashion",18,25,4389.75,3137.50,1252.25,243.88
+834,"T-shirt PapayaWhip 901","Fashion",29,40,5728.40,4018.80,1709.60,197.53
+835,"Jacket CadetBlue 928","Fashion",40,52,5445.44,4183.40,1262.04,136.14
+836,"Jeans Chocolate 310","Fashion",23,24,4784.40,2608.56,2175.84,208.02
+837,"T-shirt GhostWhite 514","Fashion",22,27,4823.28,3383.10,1440.18,219.24
+838,"Jacket OrangeRed 272","Fashion",36,52,4370.60,3198.00,1172.60,121.41
+839,"Dress RoyalBlue 415","Fashion",106,138,2860.74,1689.12,1171.62,26.99
+840,"Sneakers Maroon 448","Fashion",25,25,3688.00,2454.00,1234.00,147.52
+841,"T-shirt DarkOliveGreen 181","Fashion",19,27,4991.76,3369.33,1622.43,262.72
+842,"Dress Cyan 579","Fashion",61,95,4020.40,2710.35,1310.05,64.85
+843,"Sneakers FireBrick 838","Fashion",8,9,1749.15,1236.78,512.37,218.64
+844,"Socks MediumPurple 426","Fashion",17,17,3145.34,2364.02,781.32,185.02
+845,"Jeans Gold 123","Fashion",72,90,5487.30,3168.00,2319.30,75.17
+846,"Socks GhostWhite 821","Fashion",81,101,3999.60,2320.98,1678.62,49.38
+847,"T-shirt Violet 305","Fashion",81,108,5391.36,3341.52,2049.84,65.75
+848,"Dress SeaGreen 201","Fashion",68,83,5168.41,3362.33,1806.08,76.01
+849,"Jeans BlanchedAlmond 232","Fashion",58,80,4352.80,2250.40,2102.40,75.05
+850,"Dress Magenta 935","Fashion",88,112,1940.96,1013.60,927.36,22.06
+851,"Dress OldLace 292","Fashion",62,68,4998.00,2703.68,2294.32,80.61
+852,"Sneakers Navy 755","Fashion",40,48,5332.32,4066.56,1265.76,133.31
+853,"Sneakers MediumPurple 434","Fashion",13,16,2963.04,1670.24,1292.80,227.93
+854,"Socks Red 515","Fashion",25,35,5315.45,3692.50,1622.95,212.62
+855,"Dress FloralWhite 158","Fashion",27,32,4427.52,2662.40,1765.12,163.98
+856,"Paperback DarkMagenta 727","Books",53,72,2910.24,1531.44,1378.80,54.91
+857,"Paperback AliceBlue 509","Books",49,73,2881.31,2294.39,586.92,58.80
+858,"Paperback Cyan 126","Books",57,75,3539.25,2697.00,842.25,62.09
+859,"Paperback LightSeaGreen 157","Books",69,89,2626.39,2091.50,534.89,37.52
+860,"Paperback Cyan 437","Books",56,79,2516.94,1805.15,711.79,44.95
+861,"Hardcover MediumVioletRed 246","Books",114,141,1041.99,569.64,472.35,9.06
+862,"E-book PeachPuff 933","Books",72,106,4140.36,2181.48,1958.88,57.51
+863,"Paperback DarkRed 702","Books",72,96,2197.44,1453.44,744.00,30.52
+864,"E-book HoneyDew 688","Books",96,122,1245.62,989.42,256.20,12.98
+865,"Paperback Olive 932","Books",80,105,1450.05,994.35,455.70,18.13
+866,"E-book MintCream 762","Books",92,121,3079.45,1569.37,1510.08,33.11
+867,"Paperback Magenta 823","Books",55,78,2623.14,1744.08,879.06,47.69
+868,"Paperback Plum 642","Books",72,105,3075.45,1871.10,1204.35,42.71
+869,"Paperback DarkCyan 587","Books",109,139,1278.80,642.18,636.62,11.73
+870,"Hardcover BurlyWood 471","Books",72,87,2940.60,2153.25,787.35,40.84
+871,"Hardcover Sienna 874","Books",65,80,3960.80,2251.20,1709.60,60.94
+872,"Hardcover Gray 225","Books",53,62,2916.48,2004.46,912.02,55.03
+873,"Hardcover Navy 896","Books",69,102,2910.06,1634.04,1276.02,42.17
+874,"Hardcover Yellow 855","Books",93,132,2003.76,1366.20,637.56,21.55
+875,"Hardcover RosyBrown 976","Books",49,63,2862.09,2178.54,683.55,58.41
+876,"Hardcover GoldenRod 826","Books",66,95,2644.80,1600.75,1044.05,40.07
+877,"Hardcover MediumBlue 318","Books",70,98,2327.50,1764.00,563.50,33.25
+878,"E-book Moccasin 498","Books",53,66,3028.08,2332.44,695.64,57.13
+879,"Paperback Sienna 127","Books",90,119,1543.43,1137.64,405.79,17.15
+880,"Hardcover Black 926","Books",54,75,2551.50,1287.75,1263.75,47.25
+881,"E-book PaleVioletRed 459","Books",54,68,3123.92,2193.68,930.24,56.80
+882,"Hardcover LightBlue 484","Books",92,122,1673.84,1026.02,647.82,18.19
+883,"E-book PaleGreen 357","Books",54,70,2272.90,1289.40,983.50,42.09
+884,"Hardcover BlueViolet 336","Books",92,119,1824.27,1149.54,674.73,19.83
+885,"Paperback OldLace 758","Books",96,124,1556.20,1132.12,424.08,16.04
+886,"Paperback BlanchedAlmond 321","Books",72,89,1515.67,1209.51,306.16,21.05
+887,"E-book SandyBrown 990","Books",55,63,2530.71,1627.92,902.79,46.01
+888,"Paperback Coral 407","Books",56,73,3493.05,1889.24,1603.81,62.38
+889,"Paperback Chocolate 993","Books",90,119,852.04,427.21,424.83,9.36
+890,"Hardcover LightCyan 711","Books",91,117,1240.20,873.99,366.21,13.48
+891,"Paperback GoldenRod 900","Books",108,136,1763.92,909.84,854.08,16.18
+892,"Hardcover Coral 147","Books",58,74,3182.74,2294.00,888.74,53.94
+893,"Paperback MediumSlateBlue 404","Books",87,104,1203.28,913.12,290.16,13.83
+894,"E-book MistyRose 109","Books",105,144,597.60,318.24,279.36,5.69
+895,"Hardcover LightPink 853","Books",51,65,2980.25,1625.00,1355.25,58.44
+896,"Paperback MediumSeaGreen 799","Books",99,134,1015.72,558.78,456.94,10.26
+897,"Paperback Brown 781","Books",91,119,861.56,518.84,342.72,9.47
+898,"E-book LightGray 133","Books",83,102,2207.28,1326.00,881.28,26.59
+899,"E-book MediumAquaMarine 806","Books",86,112,1571.36,1159.20,412.16,18.27
+900,"Hardcover LightSalmon 337","Books",105,148,707.44,460.28,247.16,6.74
+901,"E-book Lime 120","Books",73,94,2183.62,1160.90,1022.72,29.91
+902,"Hardcover AliceBlue 999","Books",52,70,3469.90,2064.30,1405.60,66.73
+903,"Hardcover Coral 239","Books",90,125,1082.50,700.00,382.50,11.77
+904,"E-book Bisque 801","Books",76,106,2452.84,1357.86,1094.98,32.27
+905,"E-book Lavender 612","Books",84,121,1203.95,868.78,335.17,14.33
+906,"Hardcover DarkMagenta 179","Books",80,113,3153.83,2370.74,783.09,39.42
+907,"Paperback Sienna 329","Books",45,53,2576.33,1947.75,628.58,57.25
+908,"E-book SeaGreen 115","Books",106,141,902.40,641.55,260.85,8.51
+909,"Paperback OliveDrab 301","Books",90,122,1908.08,1506.70,401.38,21.20
+910,"E-book LightCoral 471","Books",89,120,630.00,464.40,165.60,7.08
+911,"Paperback Plum 768","Books",100,141,493.50,348.27,145.23,4.89
+912,"Paperback Snow 806","Books",81,99,2828.43,1880.01,948.42,34.92
+913,"Paperback DarkSeaGreen 834","Books",63,85,4179.45,3185.80,993.65,66.34
+914,"Paperback SpringGreen 529","Books",80,112,2438.24,1451.52,986.72,30.48
+915,"Paperback Gainsboro 494","Books",43,55,2680.15,1651.10,1029.05,62.33
+916,"Paperback Aqua 750","Books",57,78,3180.84,2447.64,733.20,55.80
+917,"Hardcover LimeGreen 360","Books",67,96,1367.04,888.96,478.08,20.40
+918,"E-book DeepPink 346","Books",74,95,3012.45,1846.80,1165.65,40.71
+919,"Hardcover LavenderBlush 735","Books",64,82,2802.76,1474.36,1328.40,43.79
+920,"Hardcover MediumOrchid 810","Books",43,53,2422.10,1247.09,1175.01,56.33
+921,"E-book MediumAquaMarine 662","Books",65,77,1405.25,974.82,430.43,21.29
+922,"E-book Salmon 100","Books",80,97,1729.51,1368.67,360.84,21.62
+923,"Paperback MistyRose 622","Books",69,95,3616.65,2734.10,882.55,52.42
+924,"Paperback Cyan 340","Books",75,111,3423.24,2732.82,690.42,45.64
+925,"E-book Thistle 463","Books",66,90,3617.10,2752.20,864.90,54.80
+926,"E-book Gray 372","Books",108,160,961.60,761.60,200.00,8.90
+927,"E-book OrangeRed 173","Books",57,76,2584.00,1932.68,651.32,45.33
+928,"E-book DimGray 727","Books",57,67,2711.49,1896.10,815.39,47.57
+929,"Paperback LightBlue 978","Books",87,120,1839.60,1383.60,456.00,20.67
+930,"E-book PaleTurquoise 684","Books",68,91,1760.85,1192.10,568.75,25.89
+931,"Hardcover Coral 875","Books",45,54,2698.38,1402.38,1296.00,59.96
+932,"E-book BlanchedAlmond 273","Books",62,95,1910.45,1072.55,837.90,30.81
+933,"Paperback SkyBlue 941","Books",88,115,1635.30,902.75,732.55,18.58
+934,"E-book YellowGreen 947","Books",85,100,2463.00,1705.00,758.00,28.98
+935,"E-book MediumOrchid 490","Books",45,65,2846.35,1459.90,1386.45,63.25
+936,"Paperback DodgerBlue 225","Books",61,79,3326.69,2479.81,846.88,54.54
+937,"Paperback Pink 205","Books",75,94,961.62,553.66,407.96,12.82
+938,"Paperback DarkKhaki 633","Books",96,124,2450.24,1815.36,634.88,25.52
+939,"Paperback Cornsilk 505","Books",60,76,1845.28,971.28,874.00,30.75
+940,"Paperback LightGray 560","Books",45,60,2991.60,2119.80,871.80,66.48
+941,"E-book DarkBlue 877","Books",76,87,2216.76,1639.08,577.68,29.17
+942,"E-book HoneyDew 475","Books",95,130,1305.20,919.10,386.10,13.74
+943,"Paperback DarkGray 479","Books",79,92,2527.24,1443.48,1083.76,31.99
+944,"E-book PeachPuff 118","Books",110,151,2865.98,1760.66,1105.32,26.05
+945,"E-book SpringGreen 159","Books",101,136,1691.84,1135.60,556.24,16.75
+946,"E-book RosyBrown 381","Books",95,118,1344.02,961.70,382.32,14.15
+947,"Paperback ForestGreen 548","Books",64,83,1245.83,722.10,523.73,19.47
+948,"Hardcover Lavender 190","Books",71,93,2574.24,1668.42,905.82,36.26
+949,"Hardcover DarkSlateBlue 397","Books",99,140,1264.20,995.40,268.80,12.64
+950,"E-book PapayaWhip 834","Books",52,59,2342.89,1818.38,524.51,45.06
+951,"Paperback Salmon 871","Books",63,82,1694.12,868.38,825.74,26.89
+952,"Paperback LavenderBlush 722","Books",57,74,3594.92,2262.18,1332.74,63.07
+953,"Paperback WhiteSmoke 692","Books",88,109,2132.04,1312.36,819.68,24.23
+954,"Hardcover DarkRed 972","Books",65,81,3764.07,2098.71,1665.36,57.91
+955,"E-book LightYellow 308","Books",52,64,1937.28,1005.44,931.84,37.26
+956,"Paperback LightYellow 556","Books",41,48,2084.64,1092.48,992.16,50.84
+957,"Paperback LightSeaGreen 758","Books",77,95,2040.60,1273.95,766.65,26.50
+958,"Hardcover LightGreen 573","Books",100,114,919.98,615.60,304.38,9.11
+959,"E-book Navy 584","Books",57,68,2887.28,1802.68,1084.60,49.78
+960,"Hardcover LightCyan 603","Books",47,62,2780.70,1757.08,1023.62,59.16
+961,"Hardcover LightGoldenRodYellow 786","Books",65,78,2109.90,1577.16,532.74,32.46
+962,"Hardcover Gray 141","Books",65,89,3364.20,2087.94,1276.26,51.76
+963,"E-book Purple 496","Books",85,111,1867.02,1118.88,748.14,21.96
+964,"Paperback LightBlue 178","Books",91,107,914.85,517.88,396.97,10.05
+965,"E-book GhostWhite 190","Books",57,80,3313.60,1757.60,1556.00,58.13
+966,"Hardcover LemonChiffon 797","Books",66,95,2805.35,1448.75,1356.60,42.51
+967,"Hardcover LavenderBlush 156","Books",59,79,2877.18,1854.92,1022.26,48.77
+968,"E-book DeepSkyBlue 697","Books",59,85,3015.80,1886.15,1129.65,51.12
+969,"Hardcover LightSkyBlue 992","Books",56,76,3793.16,2826.44,966.72,67.74
+970,"E-book Gold 630","Books",88,110,1082.40,650.10,432.30,12.30
+971,"Hardcover MediumOrchid 632","Books",98,133,1562.75,1033.41,529.34,15.95
+972,"Paperback Coral 779","Books",103,146,1032.22,635.10,397.12,10.02
+973,"Paperback Orchid 530","Books",70,79,2300.48,1502.58,797.90,32.86
+974,"E-book LightCoral 987","Books",104,124,669.60,395.56,274.04,6.44
+975,"Paperback LemonChiffon 363","Books",53,63,2563.47,1940.40,623.07,48.37
+976,"Paperback Tan 649","Books",85,99,1236.51,637.56,598.95,14.55
+977,"E-book Violet 600","Books",78,100,2057.00,1315.00,742.00,26.37
+978,"E-book Lavender 920","Books",60,84,2556.96,1559.04,997.92,42.62
+979,"Paperback DarkGreen 669","Books",98,124,1538.84,1194.12,344.72,15.70
+980,"E-book SandyBrown 645","Books",90,122,658.80,391.62,267.18,7.24
+981,"Hardcover Blue 431","Books",98,134,2977.48,1993.92,983.56,30.38
+982,"Hardcover DarkKhaki 398","Books",87,109,1728.74,1277.48,451.26,19.64
+983,"Hardcover AntiqueWhite 706","Books",57,70,2548.00,1887.20,660.80,44.70
+984,"E-book Sienna 555","Books",79,103,2510.11,1959.06,551.05,31.77
+985,"Hardcover Lavender 544","Books",51,65,2877.55,1488.50,1389.05,56.42
+986,"E-book RosyBrown 173","Books",82,89,787.65,426.31,361.34,9.61
+987,"E-book Navy 838","Books",87,114,3006.18,1516.20,1489.98,34.55
+988,"E-book BlueViolet 326","Books",64,73,2748.45,1509.64,1238.81,42.94
+989,"E-book LightYellow 921","Books",72,92,3391.12,2457.32,933.80,47.10
+990,"Hardcover Lavender 896","Books",70,90,2530.80,1386.00,1144.80,36.15
+991,"E-book DarkOrchid 197","Books",102,124,1577.28,835.76,741.52,15.46
+992,"Hardcover BurlyWood 524","Books",56,65,2590.90,2034.50,556.40,46.27
+993,"Hardcover Gold 553","Books",63,85,2887.45,1666.85,1220.60,45.83
+994,"E-book GoldenRod 812","Books",72,89,2043.44,1553.94,489.50,28.38
+995,"Hardcover Crimson 400","Books",81,106,525.76,394.32,131.44,6.49
+996,"Hardcover Navy 823","Books",55,65,2867.15,2119.00,748.15,52.13
+997,"E-book Thistle 364","Books",56,70,2576.70,1527.40,1049.30,45.21
+998,"Paperback Fuchsia 918","Books",74,105,3022.95,1706.25,1316.70,40.85
+999,"E-book RosyBrown 133","Books",61,81,3973.86,2453.49,1520.37,65.15
+1000,"Paperback LightGoldenRodYellow 328","Books",71,89,1856.54,1285.16,571.38,26.15
+1001,"E-book AntiqueWhite 575","Books",68,95,2721.75,1437.35,1284.40,40.03
+1002,"Hardcover DarkMagenta 795","Books",58,60,2233.80,1405.20,828.60,38.51
+1003,"Paperback MediumVioletRed 225","Books",87,125,1047.50,783.75,263.75,12.04
+1004,"E-book IndianRed 636","Books",59,78,3619.20,2891.46,727.74,60.32
+1005,"E-book Blue 118","Books",106,141,906.63,586.56,320.07,8.55
+1006,"Paperback NavajoWhite 305","Books",58,71,3180.80,2461.57,719.23,54.84
+1007,"Paperback MediumSpringGreen 697","Books",104,136,2197.76,1298.80,898.96,21.13
+1008,"E-book DarkTurquoise 581","Books",60,80,3083.20,1728.00,1355.20,51.39
+1009,"Paperback Brown 332","Books",64,78,3049.02,2224.56,824.46,47.64
+1010,"E-book GreenYellow 713","Books",63,84,3902.64,1989.12,1913.52,61.95
+1011,"Hardcover LightCyan 255","Books",58,76,3683.72,2222.24,1461.48,63.51
+1012,"E-book Blue 458","Books",94,134,2291.40,1263.62,1027.78,24.38
+1013,"Paperback GreenYellow 472","Books",63,95,2432.95,1457.30,975.65,38.62
+1014,"Hardcover Aqua 928","Books",85,105,855.75,641.55,214.20,10.07
+1015,"Hardcover MediumOrchid 864","Books",59,76,2812.76,1790.56,1022.20,47.67
+1016,"E-book PaleTurquoise 502","Books",88,116,963.96,528.96,435.00,10.95
+1017,"Paperback Navy 693","Books",100,129,605.01,309.60,295.41,6.05
+1018,"Hardcover GhostWhite 525","Books",91,120,2689.20,1906.80,782.40,29.55
+1019,"E-book Magenta 845","Books",44,56,2371.60,1239.84,1131.76,53.90
+1020,"E-book Crimson 778","Books",61,88,3300.88,2006.40,1294.48,54.11
+1021,"Hardcover GreenYellow 994","Books",83,104,1933.36,1454.96,478.40,23.29
+1022,"Paperback BlanchedAlmond 209","Books",80,117,2019.42,1167.66,851.76,25.24
+1023,"Hardcover Snow 648","Books",90,100,850.00,552.00,298.00,9.44
+1024,"E-book SkyBlue 267","Books",78,94,801.82,513.24,288.58,10.15
+1025,"E-book Coral 475","Books",68,79,2225.43,1451.23,774.20,32.73
+1026,"Hardcover PaleTurquoise 230","Books",82,116,1893.12,1262.08,631.04,22.81
+1027,"Board Game DarkGreen 345","Toys",55,69,4124.13,2723.43,1400.70,74.98
+1028,"Puzzle Orchid 600","Toys",104,150,1068.00,835.50,232.50,10.08
+1029,"Building Blocks DeepSkyBlue 189","Toys",87,114,2463.54,1781.82,681.72,28.32
+1030,"Board Game White 131","Toys",85,114,1980.18,1146.84,833.34,23.30
+1031,"Doll DarkGoldenRod 398","Toys",67,87,3053.70,2001.87,1051.83,45.58
+1032,"Building Blocks DodgerBlue 692","Toys",50,66,4745.40,2492.82,2252.58,93.05
+1033,"Board Game Orchid 902","Toys",86,116,2703.96,1835.12,868.84,31.44
+1034,"Building Blocks LightPink 351","Toys",47,59,3457.40,1793.01,1664.39,73.56
+1035,"Puzzle PaleTurquoise 142","Toys",56,74,3725.16,2960.74,764.42,66.52
+1036,"Board Game LightSkyBlue 934","Toys",68,82,4243.50,3002.84,1240.66,62.40
+1037,"Action Figure Linen 572","Toys",69,97,3037.07,2257.19,779.88,44.02
+1038,"Building Blocks PapayaWhip 521","Toys",38,60,4448.40,2238.60,2209.80,117.06
+1039,"Doll CadetBlue 251","Toys",105,128,1073.92,791.04,282.88,10.13
+1040,"Building Blocks Magenta 452","Toys",46,68,3823.64,2085.56,1738.08,83.12
+1041,"Board Game MintCream 802","Toys",95,122,2571.76,1999.58,572.18,27.07
+1042,"Action Figure PapayaWhip 102","Toys",37,54,3155.76,1641.06,1514.70,85.29
+1043,"Doll PapayaWhip 437","Toys",98,134,1177.86,774.52,403.34,12.02
+1044,"Puzzle Azure 303","Toys",56,77,4743.97,3277.89,1466.08,84.71
+1045,"Puzzle Moccasin 194","Toys",53,73,5006.34,3684.31,1322.03,94.46
+1046,"Action Figure Gray 604","Toys",50,61,2996.93,2221.01,775.92,59.94
+1047,"Doll OrangeRed 410","Toys",96,124,1982.76,1484.28,498.48,20.23
+1048,"Puzzle PaleGreen 921","Toys",65,81,4951.53,3712.23,1239.30,76.18
+1049,"Building Blocks GreenYellow 755","Toys",105,135,2455.65,1512.00,943.65,23.17
+1050,"Building Blocks AntiqueWhite 644","Toys",70,84,2362.08,1862.28,499.80,33.74
+1051,"Puzzle PowderBlue 921","Toys",85,114,1257.42,924.54,332.88,14.79
+1052,"Action Figure DimGray 345","Toys",41,52,3200.60,2413.84,786.76,78.06
+1053,"Board Game Peru 998","Toys",55,70,3463.60,2315.60,1148.00,62.97
+1054,"Doll DarkOrange 827","Toys",72,109,5291.95,4127.83,1164.12,73.50
+1055,"Puzzle DarkGoldenRod 912","Toys",64,103,3606.03,2651.22,954.81,56.34
+1056,"Action Figure PaleGreen 189","Toys",46,64,4295.04,2670.72,1624.32,93.37
+1057,"Board Game Moccasin 447","Toys",56,76,4125.28,3097.76,1027.52,73.67
+1058,"Building Blocks Salmon 412","Toys",59,85,6197.35,3892.15,2305.20,105.04
+1059,"Puzzle DodgerBlue 213","Toys",92,112,3161.76,2153.76,1008.00,34.37
+1060,"Doll DarkSeaGreen 568","Toys",64,84,3106.32,2116.80,989.52,48.54
+1061,"Board Game Aquamarine 462","Toys",79,100,3082.00,1739.00,1343.00,39.01
+1062,"Doll CadetBlue 399","Toys",45,65,4452.50,3053.70,1398.80,96.79
+1063,"Action Figure DarkTurquoise 818","Toys",104,153,1914.03,1112.31,801.72,18.40
+1064,"Doll Orchid 347","Toys",73,97,3506.55,2319.27,1187.28,47.39
+1065,"Puzzle DarkCyan 484","Toys",92,110,2421.10,1666.50,754.60,26.32
+1066,"Board Game NavajoWhite 254","Toys",68,81,2822.04,1692.90,1129.14,41.50
+1067,"Action Figure Tan 935","Toys",87,115,2114.85,1279.95,834.90,24.31
+1068,"Building Blocks FloralWhite 415","Toys",41,49,3492.23,2752.33,739.90,83.15
+1069,"Doll DarkViolet 909","Toys",71,103,3045.71,2323.68,722.03,42.90
+1070,"Building Blocks MediumVioletRed 266","Toys",89,123,2462.46,1845.00,617.46,27.36
+1071,"Doll LightSkyBlue 279","Toys",65,83,3735.83,1868.33,1867.50,57.47
+1072,"Puzzle DodgerBlue 928","Toys",45,69,5239.17,3334.08,1905.09,116.43
+1073,"Action Figure Turquoise 665","Toys",66,85,5143.35,3615.05,1528.30,77.93
+1074,"Building Blocks FloralWhite 871","Toys",62,77,4257.33,2300.76,1956.57,68.67
+1075,"Action Figure CornflowerBlue 738","Toys",50,69,3816.39,1994.79,1821.60,76.33
+1076,"Action Figure DarkMagenta 470","Toys",59,74,2875.64,2264.40,611.24,48.74
+1077,"Action Figure OliveDrab 484","Toys",55,75,4119.75,2841.00,1278.75,74.90
+1078,"Building Blocks SlateGray 770","Toys",40,47,3094.48,1602.70,1491.78,77.36
+1079,"Doll Gray 118","Toys",52,78,3315.78,2345.46,970.32,63.77
+1080,"Puzzle LimeGreen 221","Toys",43,68,4812.36,3688.32,1124.04,111.92
+1081,"Building Blocks DarkSalmon 624","Toys",74,97,3289.27,1951.64,1337.63,44.45
+1082,"Board Game Brown 135","Toys",63,77,4615.38,3345.65,1269.73,73.26
+1083,"Action Figure SkyBlue 377","Toys",62,74,3085.80,1549.56,1536.24,48.98
+1084,"Board Game Maroon 620","Toys",85,109,2168.01,1680.78,487.23,25.51
+1085,"Puzzle CadetBlue 703","Toys",59,74,5907.42,3261.18,2646.24,100.13
+1086,"Action Figure Orange 891","Toys",55,81,4246.02,2430.81,1815.21,77.20
+1087,"Building Blocks DarkCyan 517","Toys",110,150,1186.50,789.00,397.50,10.79
+1088,"Puzzle DodgerBlue 489","Toys",54,64,4195.84,2949.76,1246.08,77.70
+1089,"Doll Indigo 807","Toys",43,56,4326.56,3084.48,1242.08,100.62
+1090,"Action Figure PaleGreen 607","Toys",67,81,2429.19,1821.69,607.50,36.26
+1091,"Puzzle Gray 243","Toys",56,76,4919.48,2972.36,1947.12,87.85
+1092,"Board Game Sienna 266","Toys",75,99,4373.82,3338.28,1035.54,58.32
+1093,"Action Figure Gainsboro 419","Toys",59,89,5396.96,2974.38,2422.58,91.47
+1094,"Puzzle IndianRed 895","Toys",69,88,4352.48,3444.32,908.16,63.08
+1095,"Action Figure BlueViolet 416","Toys",46,62,4786.40,2661.66,2124.74,104.05
+1096,"Doll PaleGoldenRod 548","Toys",76,99,2039.40,1215.72,823.68,26.83
+1097,"Doll Tomato 503","Toys",100,130,1822.60,1053.00,769.60,18.23
+1098,"Action Figure DimGray 373","Toys",67,93,3211.29,2534.25,677.04,47.22
+1099,"Puzzle OliveDrab 561","Toys",79,102,2151.18,1661.58,489.60,27.23
+1100,"Building Blocks MintCream 897","Toys",46,60,4077.00,2817.60,1259.40,88.63
+1101,"Action Figure DarkRed 648","Toys",99,124,1147.00,669.60,477.40,11.59
+1102,"Doll DeepPink 521","Toys",52,63,3461.22,2611.35,849.87,66.56
+1103,"Puzzle LightBlue 505","Toys",69,84,2215.92,1349.04,866.88,31.66
+1104,"Building Blocks GoldenRod 224","Toys",50,63,4158.63,3141.81,1016.82,83.17
+1105,"Action Figure BlueViolet 644","Toys",66,82,3220.14,1621.14,1599.00,48.79
+1106,"Building Blocks Blue 468","Toys",71,99,2832.39,1927.53,904.86,39.89
+1107,"Action Figure MediumBlue 996","Toys",53,64,5027.84,3850.24,1177.60,94.86
+1108,"Building Blocks DarkOrchid 948","Toys",82,109,1431.17,974.46,456.71,17.45
+1109,"Doll Orange 414","Toys",56,69,4674.75,3335.46,1339.29,83.48
+1110,"Board Game SaddleBrown 749","Toys",57,72,3867.12,3055.68,811.44,67.84
+1111,"Puzzle Linen 908","Toys",54,69,4369.08,2701.35,1667.73,80.91
+1112,"Action Figure PeachPuff 444","Toys",90,116,4129.60,2684.24,1445.36,45.88
+1113,"Action Figure Linen 246","Toys",48,58,4060.58,2897.68,1162.90,84.60
+1114,"Building Blocks LightBlue 395","Toys",60,84,5076.96,3168.48,1908.48,84.62
+1115,"Board Game Peru 523","Toys",81,105,2285.85,1610.70,675.15,28.22
+1116,"Puzzle Orange 783","Toys",60,73,3150.68,2380.53,770.15,52.51
+1117,"Board Game NavajoWhite 687","Toys",60,71,3461.96,2150.59,1311.37,56.75
+1118,"Action Figure RosyBrown 973","Toys",46,64,4103.04,2887.68,1215.36,89.20
+1119,"Board Game SteelBlue 872","Toys",102,135,2320.65,1628.10,692.55,22.75
+1120,"Board Game Purple 134","Toys",60,85,3658.40,2815.20,843.20,60.97
+1121,"Doll Fuchsia 821","Toys",56,69,4900.38,2643.39,2256.99,87.51
+1122,"Doll Beige 168","Toys",52,69,3540.39,2062.41,1477.98,68.08
+1123,"Building Blocks AliceBlue 722","Toys",66,91,4619.16,3014.83,1604.33,69.99
+1124,"Board Game SlateGray 468","Toys",41,58,4227.62,2506.18,1721.44,103.11
+1125,"Building Blocks SeaGreen 468","Toys",41,50,3907.00,2893.50,1013.50,95.29
+1126,"Puzzle LavenderBlush 958","Toys",53,66,3812.16,1988.58,1823.58,71.93
+1127,"Action Figure RosyBrown 882","Toys",76,95,2105.20,1341.40,763.80,27.70
+1128,"Board Game Salmon 556","Toys",56,76,2969.32,1933.44,1035.88,53.02
+1129,"Building Blocks Fuchsia 140","Toys",66,87,4094.22,3038.91,1055.31,62.03
+1130,"Building Blocks Sienna 329","Toys",39,55,3697.65,1971.20,1726.45,94.81
+1131,"Action Figure PaleGoldenRod 438","Toys",42,49,2576.42,1550.85,1025.57,61.34
+1132,"Building Blocks DarkMagenta 912","Toys",59,72,3461.04,1956.96,1504.08,58.66
+1133,"Board Game CornflowerBlue 691","Toys",60,69,1852.65,1467.63,385.02,30.88
+1134,"Building Blocks DarkSalmon 277","Toys",40,53,3114.81,1765.96,1348.85,77.87
+1135,"Puzzle MintCream 483","Toys",44,61,4026.00,2336.91,1689.09,91.50
+1136,"Puzzle Plum 191","Toys",45,64,4904.32,2855.04,2049.28,108.98
+1137,"Building Blocks Moccasin 702","Toys",93,120,1718.40,1060.80,657.60,18.48
+1138,"Doll DarkGoldenRod 156","Toys",91,125,2842.50,2161.25,681.25,31.24
+1139,"Action Figure Red 357","Toys",25,34,2622.76,1570.46,1052.30,104.91
+1140,"Puzzle Tan 541","Toys",67,84,4493.16,3022.32,1470.84,67.06
+1141,"Doll Teal 732","Toys",49,58,4507.76,3444.62,1063.14,92.00
+1142,"Doll BlueViolet 214","Toys",96,130,2614.30,1790.10,824.20,27.23
+1143,"Doll BlueViolet 178","Toys",73,90,1642.50,1195.20,447.30,22.50
+1144,"Building Blocks DarkSeaGreen 909","Toys",98,121,873.62,640.09,233.53,8.91
+1145,"Board Game DarkBlue 873","Toys",51,58,3667.34,2054.94,1612.40,71.91
+1146,"Action Figure Maroon 857","Toys",54,62,3802.46,2982.82,819.64,70.42
+1147,"Building Blocks Teal 310","Toys",59,79,4679.96,2427.67,2252.29,79.32
+1148,"Doll Cyan 839","Toys",111,133,925.68,702.24,223.44,8.27
+1149,"Building Blocks CadetBlue 267","Toys",73,102,2603.04,1578.96,1024.08,35.66
+1150,"Building Blocks Tan 413","Toys",50,69,3641.82,2904.21,737.61,72.84
+1151,"Puzzle OldLace 463","Toys",81,121,1121.67,619.52,502.15,13.85
+1152,"Doll DarkSlateBlue 565","Toys",45,70,5076.40,3763.20,1313.20,112.81
+1153,"Puzzle Bisque 472","Toys",78,89,2792.82,2115.53,677.29,35.81
+1154,"Doll Coral 445","Toys",79,107,4490.79,2357.21,2133.58,56.85
+1155,"Action Figure DarkOliveGreen 231","Toys",73,107,4412.68,3294.53,1118.15,60.45
+1156,"Puzzle GoldenRod 498","Toys",54,76,3426.84,1971.44,1455.40,63.46
+1157,"Board Game DarkSeaGreen 297","Toys",66,90,2896.20,2018.70,877.50,43.88
+1158,"Action Figure SlateGray 547","Toys",51,62,4708.90,3739.84,969.06,92.33
+1159,"Doll LightSlateGray 547","Toys",84,107,1916.37,1473.39,442.98,22.55
+1160,"Board Game FireBrick 845","Toys",98,124,2013.76,1073.84,939.92,20.55
+1161,"Building Blocks Indigo 932","Toys",59,86,3896.66,1980.58,1916.08,66.05
+1162,"Puzzle Coral 686","Toys",57,79,3184.49,1633.72,1550.77,55.87
+1163,"Building Blocks MediumVioletRed 446","Toys",54,64,4712.32,3569.92,1142.40,87.27
+1164,"Building Blocks LightCoral 887","Toys",57,81,3840.21,2451.87,1388.34,67.37
+1165,"Board Game DimGray 463","Toys",86,109,712.86,400.03,312.83,8.29
+1166,"Doll MediumBlue 998","Toys",37,46,3273.36,1732.82,1540.54,88.47
+1167,"Board Game LightSalmon 685","Toys",42,54,4099.68,2590.92,1508.76,97.61
+1168,"Building Blocks SaddleBrown 550","Toys",43,57,4224.84,2981.10,1243.74,98.25
+1169,"Puzzle DarkTurquoise 982","Toys",59,81,3903.39,2793.69,1109.70,66.16
+1170,"Doll LightCyan 982","Toys",99,151,2793.50,1943.37,850.13,28.22
+1171,"Board Game SteelBlue 583","Toys",60,79,4664.95,2989.36,1675.59,76.47
+1172,"Building Blocks Silver 713","Toys",86,107,1764.43,1363.18,401.25,20.52
+1173,"Doll HoneyDew 334","Toys",107,134,1425.76,814.72,611.04,13.32
+1174,"Puzzle LightGray 943","Toys",59,75,2627.25,1935.00,692.25,43.79
+1175,"Board Game Tan 139","Toys",51,63,3333.33,2408.49,924.84,65.36
+1176,"Board Game LavenderBlush 921","Toys",84,102,1319.88,1046.52,273.36,15.71
+1177,"Puzzle MediumAquaMarine 346","Toys",99,127,1120.14,576.58,543.56,11.31
+1178,"Board Game Navy 669","Toys",49,64,4056.32,2081.92,1974.40,82.78
+1179,"Building Blocks Blue 257","Toys",46,63,4663.89,2699.55,1964.34,101.39
+1180,"Doll Gray 206","Toys",100,141,1036.35,752.94,283.41,10.16
+1181,"Puzzle Gainsboro 266","Toys",87,105,2082.15,1545.60,536.55,23.93
+1182,"Building Blocks PaleGreen 905","Toys",51,71,3116.90,1657.14,1459.76,61.12
+1183,"Doll DodgerBlue 971","Toys",41,49,3616.69,1811.04,1805.65,88.21
+1184,"Puzzle LightSeaGreen 614","Toys",66,88,4148.32,3096.72,1051.60,62.85
+1185,"Building Blocks MediumOrchid 918","Toys",58,69,3579.03,2428.11,1150.92,61.71
+1186,"Building Blocks OldLace 658","Toys",88,125,1467.50,757.50,710.00,16.68
+1187,"Building Blocks FloralWhite 107","Toys",92,121,3331.13,2061.84,1269.29,36.21
+1188,"Building Blocks LightGray 949","Toys",53,63,3851.19,1953.63,1897.56,72.66
+1189,"Building Blocks DarkOrange 225","Toys",53,64,4227.20,2694.40,1532.80,79.76
+1190,"Board Game Wheat 727","Toys",64,89,4958.19,3941.81,1016.38,77.47
+1191,"Puzzle BurlyWood 196","Toys",64,89,4130.49,2501.79,1628.70,64.54
+1192,"Puzzle MistyRose 968","Toys",60,89,5342.67,4033.48,1309.19,89.04
+1193,"Puzzle RoyalBlue 416","Toys",101,123,1554.72,905.28,649.44,15.24
+1194,"Action Figure Turquoise 442","Toys",81,98,1660.12,1131.90,528.22,20.50
+1195,"Board Game DarkKhaki 216","Toys",96,135,878.85,459.00,419.85,9.15
+1196,"Building Blocks LightCoral 517","Toys",79,100,2183.00,1344.00,839.00,27.63
+1197,"Building Blocks WhiteSmoke 876","Toys",58,63,3056.13,1721.16,1334.97,52.69

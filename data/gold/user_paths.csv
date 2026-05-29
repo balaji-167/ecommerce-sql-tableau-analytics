@@ -1,0 +1,10 @@
+"current_event","next_event","transition_count"
+"page_view","page_view",308706
+"page_view","add_to_cart",142495
+"add_to_cart","page_view",110637
+"checkout","purchase",33358
+"page_view","checkout",27503
+"add_to_cart","checkout",17406
+"add_to_cart","add_to_cart",324
+"checkout","add_to_cart",307
+"add_to_cart","purchase",222
