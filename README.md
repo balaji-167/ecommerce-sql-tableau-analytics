@@ -1,6 +1,6 @@
-# E-commerce Analytics Project using SQL, Data Modeling, and Tableau
+# 🛒 E-commerce Analytics Project using SQL, Data Modeling, and Tableau
 
-## Project Overview
+## 🚀 Project Overview
 
 This project is an end-to-end e-commerce business intelligence case study built using **PostgreSQL, SQL data modeling, and Tableau Public**.
 
@@ -34,7 +34,7 @@ Business Insights & Recommendations
 
 ---
 
-## Interactive Tableau Dashboard
+## 📊 Interactive Tableau Dashboard
 
 View the interactive Tableau dashboard here:
 
@@ -42,7 +42,7 @@ View the interactive Tableau dashboard here:
 
 ---
 
-## Repository Structure
+## 📖 Repository Structure
 
 ```text
 ecommerce-sql-tableau-analytics/
@@ -79,7 +79,7 @@ ecommerce-sql-tableau-analytics/
 
 ---
 
-## Business Problem
+## 💼 Business Problem
 
 E-commerce businesses face multiple performance challenges across revenue, products, customers, and user behaviour.
 
@@ -99,7 +99,7 @@ This project focuses on solving the following business questions:
 
 ---
 
-## Dataset Overview
+## 📋 Dataset Overview
 
 The project uses multiple e-commerce datasets covering transactional, product, customer, session, event, and review data.
 
@@ -117,13 +117,13 @@ The project uses multiple e-commerce datasets covering transactional, product, c
 
 ---
 
-## Data Architecture
+## 🏗️ Data Architecture
 
 The project follows a **Medallion Architecture** with Bronze, Silver, and Gold layers.
 
 ![Ecommerce Data Architecture](assests/ecommerce_data_architecture.png)
 
-### Bronze Layer
+### 🥉 Bronze Layer
 
 The Bronze layer stores raw CSV files imported into PostgreSQL.
 
@@ -147,7 +147,7 @@ bronze.reviews
 
 ---
 
-### Silver Layer
+### ⚙️ Silver Layer
 
 The Silver layer contains cleaned and standardized SQL views created from the Bronze layer.
 
@@ -166,7 +166,7 @@ The Silver layer was used to create consistent, analysis-ready tables before bui
 
 ---
 
-### Gold Layer
+### 🏆 Gold Layer
 
 The Gold layer contains business-ready fact tables, dimension tables, and analytical views.
 
@@ -185,7 +185,7 @@ Gold layer outputs include:
 
 ---
 
-## Data Model
+## 📝 Data Model
 
 The Gold layer follows a star-schema-style analytical model.
 
@@ -225,7 +225,7 @@ This structure improves:
 
 ---
 
-## SQL Workflow
+## ▶️ SQL Workflow
 
 The SQL workflow included four major stages:
 
@@ -299,7 +299,7 @@ Examples:
 
 ---
 
-## SQL Concepts Used
+## 🗂️ SQL Concepts Used
 
 This project demonstrates practical SQL concepts used in real business analytics work.
 
@@ -329,7 +329,7 @@ The Tableau workbook contains four dashboards.
 
 ---
 
-## Dashboard 1: Executive Overview
+## 📊 Dashboard 1: Executive Overview
 
 ![Executive Overview Dashboard](assests/dashboard_1_executive_overview.png)
 
@@ -372,7 +372,7 @@ This dashboard helps leadership understand:
 
 ---
 
-## Dashboard 2: Product & Category Performance
+## 📊 Dashboard 2: Product & Category Performance
 
 ![Product & Category Performance Dashboard](assests/dashboard_2_product_performance.png)
 
@@ -423,7 +423,7 @@ The bigger opportunity is to:
 
 ---
 
-## Dashboard 3: Customer Health & Retention
+## 📊 Dashboard 3: Customer Health & Retention
 
 ![Customer Health & Retention Dashboard](assests/dashboard_3_customer_retention.png)
 
@@ -476,7 +476,7 @@ This creates risk because:
 
 ---
 
-## Dashboard 4: Customer Behaviour & Retention Analytics
+## 📊 Dashboard 4: Customer Behaviour & Retention Analytics
 
 ![Customer Behaviour & Retention Dashboard](assests/dashboard_4_customer_behavior.png)
 
@@ -526,7 +526,7 @@ Potential issues may include:
 
 ---
 
-## Key Business Insights
+## 💡 Key Business Insights
 
 ### 1. Revenue Is Stable, but Not Strongly Growing
 
@@ -600,7 +600,7 @@ This means there is opportunity to grow revenue by moving middle-value customers
 
 ---
 
-## E-commerce Challenges Identified
+## ⚡ E-commerce Challenges Identified
 
 This project identified several common e-commerce challenges.
 
@@ -634,7 +634,7 @@ Country-level performance varies, suggesting opportunities for localized campaig
 
 ---
 
-## Recommendations
+## 💬 Recommendations
 
 ### 1. Improve Cart-to-Checkout Conversion
 
@@ -752,7 +752,7 @@ Focus on:
 
 ---
 
-## Tools Used
+## 🛠️ Tools Used
 
 | Tool           | Purpose                                                                                          |
 | -------------- | ------------------------------------------------------------------------------------------------ |
@@ -765,7 +765,7 @@ Focus on:
 
 ---
 
-## Project Summary
+## 📜 Project Summary
 
 This project demonstrates an end-to-end analytics workflow from raw data to business reporting.
 
@@ -782,3 +782,16 @@ The final business conclusion is:
 > This is a solid e-commerce business with healthy product economics and decent conversion performance, but weak retention is preventing durable growth.
 
 The strongest growth lever is not simply more traffic. The strongest opportunity is better reactivation, stronger second-purchase conversion, improved lifecycle marketing, and smarter monetization of customers already acquired.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👤 Author
+
+Balaji Reddy  
+GitHub: https://github.com/balaji-167
