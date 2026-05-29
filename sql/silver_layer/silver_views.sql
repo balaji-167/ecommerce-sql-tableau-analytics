@@ -1,9 +1,14 @@
 /*
+===============================================================
+DDL Script: Create Silver Views
+===============================================================
 
-=============================================================================================================
-Silver Layer Update: We have utilized Views for the Silver Layer to handle data standardization and cleaning.
-=============================================================================================================
-
+Script Purpose:
+    This script creates views for the Silver layer in the data warehouse.
+   
+Usage:
+    - These views can be queried directly for analytics and reporting.
+===============================================================
 */
 
 CREATE OR REPLACE VIEW silver.customers AS 
