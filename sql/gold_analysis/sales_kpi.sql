@@ -1,5 +1,6 @@
 /*
 
+Purpose:
 This script builds a reusable view (gold.sales_kpis) to act as a single source of truth for our core business performance metrics.
 It aggregates transaction data from gold.fact_orders into a clean, presentation-ready layer for dashboards and stakeholder reporting.
 
